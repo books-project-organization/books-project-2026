@@ -30,3 +30,7 @@ PÚBLICO-ALVO:
 7. Pequenos estabelecimentos que desejam ampliar sua visibilidade e divulgar seus acervos
 8. Instituições educacionais e comunitárias
 9. Escolas, bibliotecas comunitárias e projetos sociais que incentivam a leitura e o compartilhamento de livros.
+
+============================================================================
+
+LINK DO FUN RETROSPECTIVES: https://app.funretrospectives.com/session/-OnX6vPL1iD-08U-5BKv?board=-OnX6vMYou_C9TCZe8PK
