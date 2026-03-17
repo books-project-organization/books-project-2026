@@ -23,22 +23,22 @@ O acesso à leitura e aos materiais didáticos ainda representa um desafio para 
 👥 PÚBLICO-ALVO
 
 🎓 Estudantes:
-﹒Alunos do ensino fundamental, médio e superior que necessitam de livros didáticos a preços acessíveis
-﹒Pessoas que buscam alternativas mais econômicas para aquisição de livros
+- Alunos do ensino fundamental, médio e superior que necessitam de livros didáticos a preços acessíveis
+- Pessoas que buscam alternativas mais econômicas para aquisição de livros
 
 📖 Leitores em geral:
-﹒Usuários interessados em comprar, trocar ou doar livros físicos
+- Usuários interessados em comprar, trocar ou doar livros físicos
 
 🏪 Sebos e livrarias independentes:
-﹒Pequenos estabelecimentos que desejam ampliar sua visibilidade e divulgar seus acervos
+- Pequenos estabelecimentos que desejam ampliar sua visibilidade e divulgar seus acervos
 
 🏫 Instituições educacionais e comunitárias
-﹒Escolas, bibliotecas comunitárias e projetos sociais que incentivam a leitura e o compartilhamento de livros
+- Escolas, bibliotecas comunitárias e projetos sociais que incentivam a leitura e o compartilhamento de livros
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 🔗 LINKS:
 
-FUN RETROSPECTIVES: https://app.funretrospectives.com/session/-OnX6vPL1iD-08U-5BKv?board=-OnX6vMYou_C9TCZe8PK
-APRESENTAÇÃO: https://www.canva.com/design/DAHCzOwNRIA/2Ut-BLS4aN0H2i1LAc9dGw/edit?utm_content=DAHCzOwNRIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- FUN RETROSPECTIVES: https://app.funretrospectives.com/session/-OnX6vPL1iD-08U-5BKv?board=-OnX6vMYou_C9TCZe8PK
+- APRESENTAÇÃO: https://www.canva.com/design/DAHCzOwNRIA/2Ut-BLS4aN0H2i1LAc9dGw/edit?utm_content=DAHCzOwNRIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
