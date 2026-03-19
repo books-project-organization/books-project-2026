@@ -14,14 +14,15 @@ Relacionado ao épico: [#ID_DO_EPICO](https://github.com/books-project-organizat
 ## História de Usuário
 
 Como **\[Leitora com recursos financeiros limitados\]**\
-quero **\[encontrar locais onde eu possa trocar ou doar livros\]**\
-para **\[continuar lendo com sem altos custos e contribuir com outras pessoas\]**.
+quero **\[Encontrar locais onde eu possa trocar ou doar livros\]**\
+para **\[Continuar lendo com sem altos custos e contribuir com outras pessoas\]**.
 
 ------------------------------------------------------------------------
 
 ## Descrição
+<!--Explique com mais detalhes o contexto da funcionalidade.-->
 
-Explique com mais detalhes o contexto da funcionalidade.
+Localizar sebos e pessoas para troca ou doação de livros.
 
 ------------------------------------------------------------------------
 
