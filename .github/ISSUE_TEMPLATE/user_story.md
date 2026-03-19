@@ -13,9 +13,9 @@ Relacionado ao épico: [#ID_DO_EPICO](https://github.com/books-project-organizat
 
 ## História de Usuário
 
-Como **\[tipo de usuário\]**\
-quero **\[objetivo\]**\
-para **\[benefício\]**.
+Como **\[Leitora com recursos financeiros limitados\]**\
+quero **\[encontrar locais onde eu possa trocar ou doar livros\]**\
+para **\[continuar lendo com sem altos custos e contribuir com outras pessoas\]**.
 
 ------------------------------------------------------------------------
 
