@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <!-- config basica -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- titulo -->
+  <title>biblioteca locus</title>
+
+  <style>
+    /* corpo */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f9;
+      color: #1d1d1d;
+    }
+
+    /* topo */
+    header {
+      background: #5b21b6;
+      color: #fff;
+      padding: 16px 20px;
+    }
+
+    /* titulo do topo */
+    header h1 {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    /* areaimportantel */
+    main {
+      max-width: 960px;
+      margin: 30px auto;
+      padding: 0 18px;
+    }
+
+    /* bloco de boas-vindas */
+    .welcome {
+      background: #fff;
+      border: 1px solid #e5e5ec;
+      border-radius: 12px;
+      padding: 18px;
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.05);
+    }
+
+    /* título da seção */
+    .welcome h2 {
+      margin-top: 0;
+    }
+
+    /* grade dos cards */
+    .grid {
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      margin-top: 16px;
+    }
+
+    /* card */
+    .card {
+      background: #fff;
+      border: 1px solid #e5e5ec;
+      border-radius: 10px;
+      padding: 12px;
+      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.04);
+    }
+
+    /* titulo do card */
+    .card h3 {
+      margin: 0 0 6px;
+    }
+
+    /* rodape */
+    footer {
+      text-align: center;
+      padding: 14px;
+      color: #555;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <!-- cabecalho -->
+  <header>
+    <h1>biblioteca locus — area interna</h1>
+  </header>
+
+  <!-- conteudo -->
+  <main>
+    <!-- boas-vindas -->
+    <section class="welcome">
+      <h2>oi, leitor! </h2>
+      <p>caça livro barato, doa o que tá parado e ainda descobre sebos roots sem garimpar a internet toda.</p>
+
+      <!-- cards -->
+      <div class="grid">
+        <!-- card 1 -->
+        <div class="card">
+          <h3>livros perto de voce</h3>
+          <p>o que a galera te doando no seu bairro aparece aqui.</p>
+        </div>
+
+        <!-- card 2 -->
+        <div class="card">
+          <h3>trocas repidas</h3>
+          <p>combina retirada direto com quem postou, sem enrolar.</p>
+        </div>
+
+        <!-- card 3 -->
+        <div class="card">
+          <h3>sebos parceiros</h3>
+          <p>catálogos de sebos indie que merecem palco.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- obs em baixo -->
+  <footer>verssao incial ainda vai mudar mta coisa.</footer>
+</body>
+</html>
