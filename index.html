@@ -1,90 +1,110 @@
 <!DOCTYPE html>
-<html lang="pt-br">   <!-- OIIII gente espero que não se incomodem com tantos comentários kjkkjdskkk é p eu n me perder, podem apagar esta aqui dps-->
+<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Locus | Login</title>
-    <!-- boostrap-->
-     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- link do css aqq -->
-    <link rel="stylesheet" href="style.css">
+  <!-- config basica -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>locus | autentificacao</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=space+grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- fundo com glow -->
+  <div class="gradient-bg">
+    <span class="orb orb-1"></span>
+    <span class="orb orb-2"></span>
+    <span class="orb orb-3"></span>
+  </div>
 
-    <!------------------- ÁREA DO LOGIN E DOS CONTAINERS ------------------->
-   <div class="login-container d-flex justify-content-center align-items-center vh-100">
+  <!-- card principal -->
+  <main class="auth-wrapper">
+    <div class="brand">locus company</div>
 
-        <div class="content first-content"> <!------- FIRST CONTENT ------->
-            
-            <div class="primeira-coluna">
-                <h2 class="titulo">Bem vindo(a) de volta!</h2>
-                <p class="descricao">mantenha-se conectado conosco</p>
-                <p class="descricao">logue com suas informações pessoais</p>
-                <button class="btn-login">INICIAR SESSÃO</button> 
-            </div>
-
-            <div class="segunda-coluna"> <!------------ SEGUNDA COLUNA ------------>
-                <h2 class="titulo">Crie uma conta</h2>
-                
-                <div class="social-media"> <!-- redes sociais para entrar-->
-                    <ul>
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Google+</a></li>
-                        <li><a href="#">LinkedIn</a></li>
-                    </ul>
-                </div> <!-- FIM redes sociais para entrar-->
-
-               <p class="descricao">ou use seu email para cadastro: </p> <!--modifiquei um pouco aq  -->
-                <form class="form">
-                   <input type="text" class="form-control mb-3" placeholder="Nome">
-                   <input type="email" class="form-control mb-3" placeholder="Email">
-                  <input type="password" class="form-control mb-3" placeholder="Senha">
-                  <button type="submit" class="btn btn-primary w-100"> CADASTRAR-SE </button>
-                   
-                </form>
-
-            </div> <!------------ FIM DA SEGUNDA COLUNA ------------>
-
-        </div> <!------ FIM DO FIRST CONTENT ------->
-
-
-<!---------- TROCA DE TELAS: CADASTRO PARA O LOGIN (aqui foi um copia e cola do anterior)---------->
-
-
-        <div class="content second-content">
-            <div class="primeira-coluna">
-                <h2 class="titulo">Olá novamente!</h2>
-                <p class="descricao">insira seus dados pessoais</p>
-                <p class="descricao">comece sua jornada conosco</p>
-                <button class="btn">INICIAR SESSÃO</button>
-            </div>
-
-           <div class="segunda-coluna text-center"><!------------ SEGUNDA COLUNA ------------>
-                <h2 class="titulo">Entre com</h2>
-                
-                <div class="social-media"> <!-- redes sociais para entrar-->
-                    <ul>
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Google+</a></li>
-                        <li><a href="#">LinkedIn</a></li>
-                    </ul>
-                </div> <!-- FIM redes sociais para entrar-->
-
-                <p class="descricao">ou use seu email para entrar:</p>
-                <form class="form">
-                    <input type="email" class="form-control mb-3" placeholder="Email">
-                   <input type="password" class="form-control mb-3" placeholder="Senha">
-                    <a href="#">esqueceu a senha?</a>
-                    <button type="submit" class="btn btn-primary">LOGAR</button>
-                </form>
-
-            </div> <!------------ FIM DA SEGUNDA COLUNA ------------>
+    <div class="auth-card" id="authCard">
+      <!-- painel lateral -->
+      <section class="side-panel">
+        <div class="panel-copy copy-login">
+          <p class="eyebrow">novo por aqui?</p>
+          <h2>crie sua conta e entre na locus</h2>
+          <p class="text">tem gente precisando de livro e um monte de titulo dormindo na estante. sebo pequeno sofre pra ser visto. aq a gente junta tudo num lugar so.</p>
+          <button class="ghost-btn" data-mode="register">quwro me cadastrar</button>
         </div>
-        
 
-    
+        <div class="panel-copy copy-register">
+          <p class="eyebrow">ja faz parte?</p>
+          <h2>bom te ver de novo!</h2>
+          <p class="text">so logar rapidinho e seguir cacando livros, doando ou achando um sebo parceiro.</p>
+          <button class="ghost-btn" data-mode="login">voltar para login</button>
+        </div>
+      </section>
+
+      <!-- area dos formularios -->
+      <section class="forms">
+        <div class="tab-switch">
+          <button class="tab-btn active" data-mode="login">login</button>
+          <button class="tab-btn" data-mode="register">cadastro</button>
+          <span class="tab-indicator"></span>
+        </div>
+
+        <div class="forms-slider">
+          <form class="form form-login" autocomplete="off">
+            <div class="form-header">
+              <p class="eyebrow">login</p>
+              <h3>chega mais</h3>
+            </div>
+
+            <div class="input-group">
+              <label for="login-email">email</label>
+              <input id="login-email" type="email" placeholder="voce@email.com" required>
+            </div>
+
+            <div class="input-group">
+              <label for="login-password">senha</label>
+              <input id="login-password" type="password" placeholder="••••••••" required>
+            </div>
+
+            <div class="form-footer">
+              <a class="link" href="#">esqueceu a senha?</a>
+            </div>
+
+            <button type="submit" class="primary-btn">entrar</button>
+          </form>
+
+          <form class="form form-register" autocomplete="off">
+            <div class="form-header">
+              <p class="eyebrow">cadastro</p>
+              <h3>vem fazer parte</h3>
+            </div>
+
+            <div class="input-group">
+              <label for="register-name">nome completo</label>
+              <input id="register-name" type="text" placeholder="seu nome" required>
+            </div>
+
+            <div class="input-group">
+              <label for="register-email">email</label>
+              <input id="register-email" type="email" placeholder="voce@email.com" required>
+            </div>
+
+            <div class="input-group">
+              <label for="register-password">senha</label>
+              <input id="register-password" type="password" placeholder="crie uma senha" required>
+            </div>
+
+            <button type="submit" class="primary-btn">cadastrar</button>
+          </form>
+        </div>
+      </section>
     </div>
-  <!--antes de fechar o body to fechando o bootsrtap-->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </main>
+
+  <!-- creditos -->
+  <footer class="credits">
+    feito por: nina albuquerque, amanda aziz, joao carlos e roberto campos
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
