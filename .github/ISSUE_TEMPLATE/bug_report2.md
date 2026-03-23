@@ -1,4 +1,4 @@
-# BUGXX - Falha no carregamento do mapa ao buscar sebos próximos
+# BUG02 - Falha no carregamento do mapa ao buscar sebos próximos
 
 ## Descrição do Problema
 
@@ -16,21 +16,17 @@ O aplicativo apresenta uma tela em branco no lugar do mapa quando o usuário ten
 
 ## Resultado Esperado
 
-O comportamento esperado seria queo app abrisse o mapa com a localização do Sebo na tela "Localização de Sebo"
+O app deveria abrir o mapa com marcadores indicando sebos parceiros próximos do usuário
 ------------------------------------------------------------------------
 
 ## Resultado Atual
 
-No momento o que ocorre é que a localização não abre e o mapa fica em branco.
+A área que deveria abrir o mapa fica em branco e o ícone de carregamento gira infinitamente.
 ------------------------------------------------------------------------
 
 ## Impacto
 
-Explique como o bug afeta o sistema ou os usuários.
-
-Exemplos: - Usuários conseguem selecionar o mesmo número da rifa -
-Inconsistência no sorteio - Falha na experiência do usuário
-
+Usuários não conseguem localizar os Sebos, e por isso, não conseguem finalizar o propósito do app.
 ------------------------------------------------------------------------
 
 ## Critérios de Correção
@@ -48,7 +44,7 @@ Inconsistência no sorteio - Falha na experiência do usuário
 -   Sistema: Web / Mobile
 -   Navegador:
 -   Versão:
--   Data do teste:
+-   Data do teste: 23/03/2026
 
 ------------------------------------------------------------------------
 
