@@ -36,9 +36,4 @@ Esta tarefa foca na criação da funcionalidade onde a universitária pode anunc
 ------------------------------------------------------------------------
 
 ## Campos recomendados no Board
-
-Tipo: Task  
-Sprint: Sprint 2  
-Prioridade: Média  
-Story Points: 2
-
+(opcional)
