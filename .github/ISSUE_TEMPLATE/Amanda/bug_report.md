@@ -61,8 +61,4 @@ User Story relacionada: US09 - Universitária busca locais para doação de livr
 ------------------------------------------------------------------------
 
 ## Campos recomendados no Board
-
-Tipo: Bug
-Priority: P1
-Sprint: Definir conforme planejamento
-Story Points: (vazio)
+(opcional)
