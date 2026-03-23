@@ -2,7 +2,7 @@
 about: história de usuário
 labels: user-story
 name: User Story
-title: US09 -
+title: US09
 ---
 
 ## Epic
