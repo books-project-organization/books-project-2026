@@ -1,8 +1,8 @@
 ---
-about: Criar uma nova história de usuário
+about: história de usuário
 labels: user-story
 name: User Story
-title: USXX -
+title: US09 -
 ---
 
 ## Epic
