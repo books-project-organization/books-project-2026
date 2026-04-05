@@ -7,7 +7,7 @@ title: US09
 
 ## Epic
 
-Relacionado ao épico: [#ID_DO_EPICO](https://github.com/books-project-organization/books-project-2026/blob/main/.github/ISSUE_TEMPLATE/Amanda/Epic.md)
+Relacionado ao épico: [#ID_DO_EPICO](https://github.com/books-project-organization/books-project-2026/blob/main/.github/ISSUE_TEMPLATE/E01.md)
 
 ------------------------------------------------------------------------
 
