@@ -31,7 +31,6 @@ Este documento define os critérios obrigatórios para a movimentação de taref
 - [ ] **Código:** Pull Request revisado por outro desenvolvedor e mergeado na `main`.
 - [ ] **Testes de navegação:** A navegação entre a lista e os detalhes do local está fluida e sem erros (bugs).
 - [ ] **Documentação:** README atualizado com a nova funcionalidade, se necessário.
-- [ ] **UX/UI:** A interface está idêntica ao protótipo aprovado.
 
 ---
 
