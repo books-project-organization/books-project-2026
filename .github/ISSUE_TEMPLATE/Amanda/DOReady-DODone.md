@@ -8,13 +8,14 @@ Este documento define os critérios obrigatórios para a movimentação de taref
 *Para um card sair de "Backlog" e entrar em "Histórias em Foco", ele deve atender a:*
 
 - [ ] **Título Estruturado:** "Como estudante universitária, quero encontrar locais que aceitam doação ou troca de livros usados para dar utilidade aos materiais que não uso mais".
-- [ ] **Critérios de Aceitação:**
-  - O sistema deve listar locais (sebos/pontos de coleta) com nome, endereço e contato;
-  - Deve haver um filtro para identificar locais que aceitam "Livros Universitários";
-  - A usuária deve conseguir ver se o local aceita "Troca", "Doação" ou ambos;
+- [ ] **Critérios de Aceitação definidos e testáveis:**
+  - O sistema deve listar locais com nome, endereço e contato;
+  - Deve permitir filtro por categoria (ex: "Livros Universitários");
+  - Deve indicar se o local aceita troca, doação ou ambos;
 - [ ] **Estimativa:** Story Points ou complexidade definida pelo time;
-- [ ] **Dependências:** Sem bloqueios técnicos ou externos;
-- [ ] **Design:** PROTÓTIPO AINDA PRECISA SER DESENVOLVIDO.
+- [ ] **Dependências identificadas:** Não existem impedimentos técnicos ou externos que bloqueiem o desenvolvimento
+- [ ] **Design UI/UX:** Protótipo de baixa ou alta fidelidade finalizado e disponível para consulta.
+- [ ] **Rastreabilidade:** Vinculação confirmada ao Épico de Mapeamento e Localização.
 
 ### 🔍 Exemplo Aplicado (User Story 9 - Universitária):
 > **Status de Ready:** 
@@ -28,10 +29,10 @@ Este documento define os critérios obrigatórios para a movimentação de taref
 *Critérios para um card ser movido para a coluna "Done".*
 
 - [ ] **Validação Funcional:** A usuária consegue buscar e encontrar os locais de doação conforme os filtros aplicados.
-- [ ] **Código:** Pull Request revisado por outro desenvolvedor e mergeado na `main`.
 - [ ] **Testes de navegação:** A navegação entre a lista e os detalhes do local está fluida e sem erros (bugs).
 - [ ] **Documentação:** README atualizado com a nova funcionalidade, se necessário.
-
+- [ ] **Critérios de Aceite:** Todos os cenários de Gherkin validados e sem falhas.
+- [ ] **Código e Integração:** Pull Request aberto, revisado (Peer Review) e mergeado na branch principal sem conflitos
 ---
 
 ## 🛠️ Como aplicar no GitHub Projects
