@@ -9,7 +9,19 @@ O acesso à leitura e aos materiais didáticos ainda representa um desafio para 
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-⚠️ PROBLEMA QUE O SISTEMA PRETENDE RESOLVER
+💡 PROPOSTA
+Diante desse cenário, surge a necessidade de uma solução que conecte quem possui livros disponíveis a quem precisa deles, promovendo circulação, acessibilidade e fortalecimento do comércio local. Desenvolver uma plataforma digital que:
+
+- Mapeie sebos, livrarias e pontos de troca de livros;
+- Permita o cadastro desses estabelecimentos;
+- Indique quais serviços oferecem (troca, compra, venda, doação);
+- Destaque locais que aceitem livros didáticos;
+- Ofereça uma área de vitrine online para divulgação de livros disponíveis;
+- Facilite a busca por estabelecimentos próximos ao usuário.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+⚠️ PROBLEMAS QUE O SISTEMA PRETENDE RESOLVER
 
 1. Dificuldade de estudantes, principalmente de baixa renda, em encontrar livros didáticos a preços acessíveis.
 2. Falta de um sistema que centralize informações sobre sebos, livrarias independentes e pontos de troca de livros.
