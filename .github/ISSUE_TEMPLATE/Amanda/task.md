@@ -2,7 +2,7 @@
 about: Criar uma tarefa técnica relacionada a uma User Story
 labels: task
 name: Task
-title: T02 - Criar Fluxo de Doação de Livros Escolares -
+title: T02 – Criar fluxo de doação de livros escolares -
 ---
 
 ## 📌 User Story Relacionada
@@ -14,24 +14,27 @@ Epic: E02 - Trocas e Doações
 
 ## 📝 Descrição
 
-Esta tarefa foca na criação da funcionalidade onde a universitária pode anunciar seus livros escolares para doação. Precisamos de uma tela de cadastro de item "Doação/Troca" com campos específicos para o tipo de material didático.
+Desenvolver a funcionalidade de cadastro de livros para doação/troca, permitindo que usuários registrem materiais didáticos com informações relevantes para disponibilização na plataforma.
 
 ------------------------------------------------------------------------
 
 ## 🔨 Subtarefas
 
--   [ ] Criar interface para listagem de lugares e seus livros disponíveis para doação.
--   [ ] Implementar formulário de "Oferecer para Doação" (Título, Matéria, Estado de Conservação).
--   [ ] Desenvolver filtro de busca por "Materiais Escolares/Acadêmicos".
--   [ ] Criar botão de "Tenho Interesse" para iniciar o contato entre as partes.
+- [ ] Criar interface de cadastro de livros para doação/troca
+- [ ] Implementar formulário com campos (título, matéria, estado de conservação)
+- [ ] Desenvolver funcionalidade de persistência dos dados no banco
+- [ ] Criar listagem de livros disponíveis para doação/troca
+- [ ] Implementar botão "Tenho interesse" para interação entre usuários
 
 ------------------------------------------------------------------------
 
 ## ✅ Critérios de Conclusão
 
--   [ ] Interface de cadastro de doação funcionando.
--   [ ] O sistema permite distinguir entre "Venda" e "Doação Gratuita".
--   [ ] Registro salvo com sucesso no banco de dados do projeto.
+- [ ] Usuário consegue cadastrar um livro para doação/troca
+- [ ] Sistema armazena os dados corretamente no banco
+- [ ] Livros cadastrados são exibidos na listagem
+- [ ] Sistema diferencia corretamente entre venda e doação
+- [ ] Usuário consegue visualizar e interagir com itens disponíveis
 
 ------------------------------------------------------------------------
 
