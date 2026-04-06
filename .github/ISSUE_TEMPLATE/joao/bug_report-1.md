@@ -3,7 +3,7 @@
 <p>Ao utilizar o filtro de “menor preço” na busca por livros escolares, o sistema não retorna os resultados mais baratos disponíveis. Em alguns casos, livros mais caros aparecem antes dos mais baratos, comprometendo o objetivo da funcionalidade.</p>
 <hr>
 <h3>User story relacionada</h3>
-<p>User Story 6:<br>
+<p><strong>User Story</strong> 6:<br>
 Como estudante do ensino médio<br>
 Quero encontrar livros escolares de forma mais barata e acessível<br>
 Para conseguir os materiais necessários para meus estudos.</p>
