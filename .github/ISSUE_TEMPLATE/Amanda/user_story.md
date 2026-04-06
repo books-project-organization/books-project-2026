@@ -56,4 +56,4 @@ A usuária possui livros escolares e acadêmicos que não utiliza mais e deseja 
 Tipo: User Story  
 Sprint: Sprint 2  
 Prioridade: Máxima  
-Story Points: 5
+Story Points: 1
