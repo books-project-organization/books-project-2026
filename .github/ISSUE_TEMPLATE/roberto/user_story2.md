@@ -7,7 +7,7 @@ title: USXX -
 
 ## Epic
 
-Relacionado ao épico: [#ID_DO_EPICO](https://github.com/books-project-organization/books-project-2026/blob/main/.github/ISSUE_TEMPLATE/epic.md)
+Relacionado ao épico 03: [#ID_DO_EPICO](https://github.com/books-project-organization/books-project-2026/blob/main/.github/ISSUE_TEMPLATE/E03.md)
 
 ------------------------------------------------------------------------
 
