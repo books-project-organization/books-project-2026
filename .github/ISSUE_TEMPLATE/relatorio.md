@@ -4,7 +4,7 @@ Este documento registra o acompanhamento diário da equipe. Cada membro deve atu
 
 ---
 
-## 📅 Data: [DD/MM/2026]
+## 📅 Data: [06/04/2026] - atualizar/atualizado
 
 ### 👤 [Nome do Membro 1]
 *   **Cargo:** [Cargo]
