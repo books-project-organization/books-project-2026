@@ -18,8 +18,8 @@ A organização dos documentos e o refinamento detalhado dos critérios de aceit
 
 ### 📈 Competências Desenvolvidas
 
-*Organização de arquivos e documentação em repositórios ágeis (GitHub)
-*Estruturação de documentos e issues utilizando Markdown
-*Compreensão prática do papel de Product Owner no framework Scrum
-*Visão de produto e empatia com o usuário na escrita de histórias e critérios de aceite
-*Acompanhamento e priorização de backlog de produto
+* Organização de arquivos e documentação em repositórios ágeis (GitHub)
+* Estruturação de documentos e issues utilizando Markdown
+* Compreensão prática do papel de Product Owner no framework Scrum
+* Visão de produto e empatia com o usuário na escrita de histórias e critérios de aceite
+* Acompanhamento e priorização de backlog de produto
