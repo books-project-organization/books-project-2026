@@ -11,9 +11,9 @@ Este documento registra minhas contribuições diárias e evolução técnica du
   
 *   **Validação de Consistência:** Verifiquei a clareza do Objetivo da Sprint, a integridade do Backlog e a correta atribuição de estimativas em cada Issue.
   
-*   **Gestão e Reestruturação de Documentação:** Segreguei os modelos de automação (`ISSUE_TEMPLATE`) dos artefatos de gestão, movendo os relatórios e logs para o diretório `docs/` para otimizar a navegabilidade.
+*   **Gestão e Reestruturação de Documentação:** Segreguei os modelos de automação (`ISSUE_TEMPLATE`) dos artefatos de gestão, movendo os relatórios e logs para o diretório `documentacao/` para otimizar a navegabilidade.
   
-*   **Mapeamento de Artefatos Técnicos:** Elaborei os documentos `ESTIMATIVAS.md` (detalhando a Matriz de Complexidade) e o roteiro para a `RETROSPECTIVA_S1.md`.
+*   **Mapeamento de Artefatos Técnicos:** Elaborei os documentos `ESTIMATIVAS.md` (detalhando a Matriz de Complexidade) e o roteiro para a `RETROSPECTIVAS.md`.
   
 *   **Refatoração do Board Kanban:** Reorganizei a estrutura de colunas utilizando a terminologia oficial do framework Scrum (**Product Backlog** e **Sprint Backlog**), facilitando a auditoria de requisitos.
   
