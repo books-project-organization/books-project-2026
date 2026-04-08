@@ -7,18 +7,19 @@ Este documento registra minhas contribuições diárias e evolução técnica du
 
 ## 🗓️ [ 08/04/2026 ]
 ### 🚀 Atividades do Dia
-*   Auditoria de Requisitos (Check-up Geral): Realizei uma revisão completa no repositório e no Board Kanban para garantir conformidade com as exigências da Sprint 1 (itens 1 ao 6).
+*   **Auditoria de Requisitos (Check-up Geral):** Realizei uma revisão completa no repositório e no Board Kanban para garantir conformidade com as 6 diretrizes obrigatórias da Sprint 1.
   
-*   Validação de Consistência: Verifiquei se o Objetivo da Sprint estava claro, se o Backlog refletia as histórias selecionadas e se as Estimativas (Story Points) foram atribuídas corretamente em cada card.
+*   **Validação de Consistência:** Verifiquei a clareza do Objetivo da Sprint, a integridade do Backlog e a correta atribuição de estimativas em cada Issue.
   
-*   Gestão de Documentação: Organizei a estrutura para os registros de Daily Scrums e preparei o terreno para a Retrospectiva e a descrição do Incremento, assegurando que todos os artefatos estejam prontos para a entrega final amanhã (09/04).
+*   **Gestão e Reestruturação de Documentação:** Segreguei os modelos de automação (`ISSUE_TEMPLATE`) dos artefatos de gestão, movendo os relatórios e logs para o diretório `docs/` para otimizar a navegabilidade.
   
-*   Monitoramento de Kanban: Ajustei o status dos cards e verifiquei a rastreabilidade entre Épicos e User Stories.
+*   **Mapeamento de Artefatos Técnicos:** Elaborei os documentos `ESTIMATIVAS.md` (detalhando a Matriz de Complexidade) e o roteiro para a `RETROSPECTIVA_S1.md`.
   
-*   Refatoração do Board Kanban:Reorganizei a estrutura de colunas para alinhar a terminologia do projeto com as práticas oficiais do framework Scrum. Estabeleci a distinção clara entre Product Backlog (visão geral) e Sprint Backlog (foco do ciclo atual), facilitando a auditoria dos requisitos exigidos na Sprint 1.
+*   **Refatoração do Board Kanban:** Reorganizei a estrutura de colunas utilizando a terminologia oficial do framework Scrum (**Product Backlog** e **Sprint Backlog**), facilitando a auditoria de requisitos.
+  
+*   **Consolidação do Incremento:** Estruturei a entrega final organizando os registros de Daily Scrums e garantindo que o progresso (Bugs e Documentação) estivesse visível e auditável na coluna **DONE**.
 
 ### 🧠 Reflexão
-
-Atuar como "controle de qualidade" do grupo é essencial para garantir que o trabalho técnico não seja invalidado por falta de organização documental. O foco hoje foi garantir que o que foi feito esteja visível para a professora.
+Atuar como "controle de qualidade" e facilitadora do grupo foi essencial para garantir que o esforço técnico do time estivesse devidamente documentado. O foco de hoje foi assegurar a transparência e a organização necessária para a avaliação da professora, transformando o trabalho prático em um incremento de projeto profissional.
 
 ---
