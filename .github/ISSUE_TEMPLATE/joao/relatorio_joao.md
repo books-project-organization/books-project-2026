@@ -3,6 +3,7 @@
 Papel: desenvolvedor
 <h2>O que foi feito</h2>
 <ul>
+  <li>Participei ativamente das discussões acerca elaboração histórias de usuário</li>
   <li>Implementei a funcionalidade de ordenação dos livros por menor preço</li>
   <li>Integrei o filtro de ordenação na interface para o usuário selecionar</li>
   <li>Configurei o backend para receber o parâmetro de ordenação</li>
