@@ -4,6 +4,7 @@ labels: user-story
 name: User Story
 title: US06
 epic: E03
+sp: 3
 ---
 <br>
 <h2>Epic</h2>
@@ -48,3 +49,6 @@ Fontes: a plataforma pode exibir livros de diferentes origens:
   <li>Promoções de lojas</li>
   <li>Vendedores parceiros</li>
 </ul>
+
+<h2>Métrica da avaliação</h2>
+Story Points: 3
