@@ -33,8 +33,3 @@ Este documento define os critérios obrigatórios para a movimentação de taref
 - [ ] **Documentação:** README atualizado com a nova funcionalidade, se necessário.
 - [ ] **Critérios de Aceite:** Todos os cenários de Gherkin validados e sem falhas.
 - [ ] **Código e Integração:** Pull Request aberto, revisado (Peer Review) e mergeado na branch principal sem conflitos
----
-
-## 🛠️ Como aplicar no GitHub Projects
-1. **Antes de mover para "Histórias em foco":** Abra o card e verifique se o **DoR** está completo.
-2. **Antes de mover para "Done":** Faça o checklist do **DoD**. Se faltar um item, o card deve permanecer em "Em processo".
