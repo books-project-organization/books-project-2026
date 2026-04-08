@@ -1,7 +1,7 @@
 ---
 about: história de usuário
 labels: user-story
-name: User Story
+name: User Story 06
 title: US06
 epic: E03
 sp: 3
