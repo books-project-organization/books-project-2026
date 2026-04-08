@@ -1,6 +1,6 @@
-#📋 Definition of Ready e Definition of Done — User Story 03
+# 📋 Definition of Ready e Definition of Done — User Story 03
 
-##🚦 Definition of Ready (DoR)
+## 🚦 Definition of Ready (DoR)
 
 Para iniciar o desenvolvimento:
 
@@ -16,7 +16,7 @@ Para iniciar o desenvolvimento:
 
 [x] Vinculação ao Epic correspondente: Ticket vinculado corretamente ao épico E03 - Busca, filtros e descoberta de livros.
 
-##✅ Definition of Done (DoD)
+## ✅ Definition of Done (DoD)
 
 Para considerar a funcionalidade concluída:
 
