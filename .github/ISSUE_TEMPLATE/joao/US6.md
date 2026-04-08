@@ -10,7 +10,12 @@ epic: E03
 
 [Epic-03](https://github.com/books-project-organization/books-project-2026/blob/main/documentacao/E03.md)
 
-<h1>User Story 6 </h1>
+<hr>
+<h1>
+  
+[User Story - 06](https://github.com/books-project-organization/books-project-2026/issues/46)
+
+</h1>
 <p><strong>Como estudante do ensino médio<br>
 Quero encontrar livros escolares de forma mais barata e acessível<br>
 Para conseguir os materiais necessários para meus estudos.</strong></p>
@@ -19,6 +24,8 @@ Para conseguir os materiais necessários para meus estudos.</strong></p>
 <p>A plataforma deve possibilitar a busca por livros com base em critérios como título, disciplina ou série, além de permitir a aplicação de filtros 
 (como menor preço e localização). Os resultados devem apresentar alternativas mais baratas, incluindo livros usados, promoções ou diferentes 
 fornecedores.
+
+
 <br>
 O objetivo é facilitar o acesso a materiais escolares para estudantes de baixa renda, garantindo que consigam adquirir os livros necessários para seus 
 estudos de maneira prática, eficiente e com menor custo.</p>
