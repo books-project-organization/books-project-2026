@@ -1,7 +1,7 @@
 # 🧩 Task 14 — Implementar comparação de preços de livros
 
 ## 🔗 Epic Relacionado
-US14 — Facilitar a busca por livros baratos
+User story14 — Facilitar a busca por livros baratos
 
 ---
 
