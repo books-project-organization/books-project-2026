@@ -1,10 +1,10 @@
-# 📋 Processos e Qualidade - Projeto Books 2026 - João Carlos
+#  Processos e Qualidade - Projeto Books 2026 - João Carlos
 
 Este documento define os critérios obrigatórios para a movimentação de tarefas no board do GitHub, utilizando a User Story 6 como padrão de referência.
 
 ---
 
-## 🚦 Definition of Ready (DoR) - "Pronto para Iniciar"
+##  Definition of Ready (DoR) - "Pronto para Iniciar"
 *Para um card sair de "Backlog" e entrar em "Histórias em Foco", ele deve atender a:*
 
 - [ ] **Discussão em Equipe:** Funcionalidade discutida previamente durante as Daily Scrums.
@@ -18,18 +18,18 @@ Este documento define os critérios obrigatórios para a movimentação de taref
 
 ---
 
-## ✅ Definition of Done (DoD) - "Pronto para Entrega"
+##  Definition of Done (DoD) - "Pronto para Entrega"
 *Critérios para um card ser movido para a coluna "Done".*
 
-### 🎯 Critérios de Aceitação
-- [ ] **Ordenação:** Ao selecionar “menor preço”, os livros são exibidos em ordem crescente.
-- [ ] **Preço Final:** O valor considerado é o preço final (já com descontos).
+###  Critérios de Aceitação
+- [x] **Ordenação:** Ao selecionar “menor preço”, os livros são exibidos em ordem crescente.
+- [x] **Preço Final:** O valor considerado é o preço final (já com descontos).
 - [ ] **Escalabilidade:** A ordenação funciona para diferentes volumes de dados.
-- [ ] **Interface:** Resposta correta da interface à seleção dos filtros.
-- [ ] **Performance:** Ausência de degradação perceptível no sistema.
+- [x] **Interface:** Resposta correta da interface à seleção dos filtros.
+- [x] **Performance:** Ausência de degradação perceptível no sistema.
 
-### 🧪 Testabilidade e Funcionalidades
-- [ ] **Busca por Título:** A plataforma lista os livros conforme o título escolhido.
-- [ ] **Foco Social:** Listagem de preços obrigatoriamente mais acessíveis que livros originais.
-- [ ] **Localização:** Filtro de área e integração com o mapa funcionando corretamente.
-- [ ] **Qualidade:** UX devidamente implementada e código documentado.
+###  Testabilidade e Funcionalidades
+- [x] **Busca por Título:** A plataforma lista os livros conforme o título escolhido.
+- [x] **Foco Social:** Listagem de preços obrigatoriamente mais acessíveis que livros originais.
+- [x] **Localização:** Filtro de área e integração com o mapa funcionando corretamente.
+- [x] **Qualidade:** UX devidamente implementada e código documentado.
