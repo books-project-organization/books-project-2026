@@ -12,7 +12,7 @@ Este documento define os critérios obrigatórios para a movimentação de taref
 - [ ] **Escopo e Técnica:** Delimitação clara do escopo e levantamento dos requisitos técnicos para implementação.
 - [ ] **Rastreabilidade:** Existência de documentação clara e coesa.
 
-### 🔍 Exemplo Aplicado (User Story 6 - Ensino Médio):
+###  Exemplo de aplicação (User Story 6 - Ensino Médio):
 > **Status de Ready:** 
 > **Como** estudante do ensino médio, **quero** encontrar livros escolares de forma mais barata e acessível **para** conseguir os materiais necessários para meus estudos.
 
