@@ -1,42 +1,35 @@
-<h1>User Story-6</h1>
+# 📋 Processos e Qualidade - Projeto Books 2026
 
-<p><strong>Como estudante do ensino médio
-Quero encontrar livros escolares de forma mais barata e acessível
-Para conseguir os materiais necessários para meus estudos.</strong></p>
+Este documento define os critérios obrigatórios para a movimentação de tarefas no board do GitHub, utilizando a User Story 6 como padrão de referência.
 
-<h1>DOR (Definition of Ready)</h1>
-<p>Para que a User Story fosse lsitada como "pronta", houve uma discussão prévia, em equipe, durante as daily scrums, acerca da funcionalidade. Bem como a definição conjunto do seu grau de priordade e dificuldade. Para isso, houve uma delimitação clara do seu escopo de atuação e o levantamento dos requisitos técnicos necessários para implementação, além da rastreabilidade por meio de documentação clara e coesa. </p>
+---
 
+## 🚦 Definition of Ready (DoR) - "Pronto para Iniciar"
+*Para um card sair de "Backlog" e entrar em "Histórias em Foco", ele deve atender a:*
 
+- [ ] **Discussão em Equipe:** Funcionalidade discutida previamente durante as Daily Scrums.
+- [ ] **Priorização:** Definição conjunta do grau de prioridade e dificuldade.
+- [ ] **Escopo e Técnica:** Delimitação clara do escopo e levantamento dos requisitos técnicos para implementação.
+- [ ] **Rastreabilidade:** Existência de documentação clara e coesa.
 
+### 🔍 Exemplo Aplicado (User Story 6 - Ensino Médio):
+> **Status de Ready:** 
+> **Como** estudante do ensino médio, **quero** encontrar livros escolares de forma mais barata e acessível **para** conseguir os materiais necessários para meus estudos.
 
+---
 
-<hr>
+## ✅ Definition of Done (DoD) - "Pronto para Entrega"
+*Critérios para um card ser movido para a coluna "Done".*
 
-<h1>Done</h1>
+### 🎯 Critérios de Aceitação
+- [ ] **Ordenação:** Ao selecionar “menor preço”, os livros são exibidos em ordem crescente.
+- [ ] **Preço Final:** O valor considerado é o preço final (já com descontos).
+- [ ] **Escalabilidade:** A ordenação funciona para diferentes volumes de dados.
+- [ ] **Interface:** Resposta correta da interface à seleção dos filtros.
+- [ ] **Performance:** Ausência de degradação perceptível no sistema.
 
-<p>A user story atingiu os seguintes critérios de aceitação e testabilidade:</p>
-<h2>Critérios de Aceitação</h2>
-<ul> 
-  <li>Ao selecionar “menor preço”, os livros são exibidos em ordem crescente</li>
-  <li> O preço considerado é o valor final (com desconto, se houver)</li>
-  <li>A ordenação funciona corretamente para diferentes volumes de dados</li>
-  <li>A interface responde corretamente à seleção do filtro</li>
-  <li> Não há degradação perceptível de performance</li>
-</ul>
-
-<h2>Testabilidade</h2>
-
-<p>Os testes manuais, o fluxo de navegação e funcionalidades ocorreram como esperados,conforme os seguintes requitos</p>
-<ul>
-  <li>A plataforma deve listar livros escolares de acordo com o título escolhido pelo usuário</li>
-  <li>A listargem deve ser mais barata que um livro original, uma vez que o foco da plataforma é o público baixa renda.</li>
-  <li>A opção de procura baseada por preços deve funcionar corretamente. Dessa maneira, o sistema deve ser capaz,  </li>
-  <li>O filtro de localização deve funcionar, listando somente os estabelecimentos que estão dentro da área escolhida pelo o usuário.</li>
-  <li>Os filtros de pesquisa mostram opções de preço que funcionam corretamente quando o usuário pesquisa.</li>
-  <li>A integração com o mapa deve funcionar corretamente. </li>
-</ul>
-<p>Além disso, A parte de UX relacionada à história está devidamente implementada com o código devidamente documentado</p>
-
-
-
+### 🧪 Testabilidade e Funcionalidades
+- [ ] **Busca por Título:** A plataforma lista os livros conforme o título escolhido.
+- [ ] **Foco Social:** Listagem de preços obrigatoriamente mais acessíveis que livros originais.
+- [ ] **Localização:** Filtro de área e integração com o mapa funcionando corretamente.
+- [ ] **Qualidade:** UX devidamente implementada e código documentado.
