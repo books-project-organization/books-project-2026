@@ -1,51 +1,42 @@
 # 📑 Relatório de Daily Scrums - Sprint 1
 
-Este documento registra o acompanhamento diário da equipe. Cada membro deve atualizar seu status após a reunião.
+Este documento registra o acompanhamento diário da equipe. O foco desta atualização é a consolidação das entregas para o fechamento da Sprint (09/04).
 
 ---
 
-## 📅 Atualizado no dia: [ 06/04/2026 ]
+## 📅 Atualizado no dia: [ 08/04/2026 ]
 
 ### 👤 Amanda Aziz
-*   **Cargo:** SCRUM MASTER
-
-*   **O que foi feito:** Estruturação completa do board Kanban no GitHub Projects; criação e refinamento de 15 User Stories e Épicos; elaboração do planejamento estratégico e da apresentação executiva do projeto; padronização da documentação técnica (.md) e definição dos critérios de DoR e DoD.
-
-*   **O que será feito:** Supervisão da transição das tarefas da coluna Ready para Done; facilitação da cerimônia de Retrospectiva da Sprint 1 e preparação do backlog prioritário para o início da Sprint 2.
-
-*   **Impedimentos:** nenhum.
+*   **Cargo:** Scrum Master & Gestão de Produto
+*   **O que foi feito:** Auditoria geral de requisitos da Sprint 1; refatoração das nomenclaturas do Kanban (Product/Sprint Backlog); criação da Matriz de Complexidade (`ESTIMATIVAS.md`) e segregação da documentação estratégica no diretório `docs/`.
+*   **O que será feito:** Facilitação da cerimônia de Retrospectiva, encerramento dos cards no board e submissão final do repositório para a professora.
+*   **Impedimentos:** Sobrecarga na gestão operacional e documental devido ao baixo índice de resposta de parte da equipe.
 
 ---
 
 ### 👤 João Carlos
-*   **Cargo:** [Cargo]
-
-*   **O que foi feito:** escrever...
-
-*   **O que será feito:** escrever...
-
-*   **Impedimentos:** escrever...
+*   **Cargo:** Desenvolvedor
+*   **O que foi feito:** Nenhuma atualização de progresso reportada formalmente ao time até o momento.
+*   **O que será feito:** Aguardando posicionamento para execução das tarefas pendentes no Backlog.
+*   **Impedimentos:** Falta de comunicação e engajamento com o cronograma da Sprint 1.
 
 ---
 
 ### 👤 Nina Albuquerque
-*   **Cargo:** Desenvolvedora
-  
-*   **O que foi feito:** Desenvolvimento do código inicial do site relacionado à User Story 14, criando a estrutura básica da aplicação e organizando os primeiros elementos necessários para o funcionamento do projeto.
-  
-*   **O que será feito:** Continuação do desenvolvimento das funcionalidades da User Story 14 e realização de ajustes no código conforme os requisitos definidos no backlog.
-
-*   **Impedimentos:**  Dificuldade inicial na utilização do GitHub e no processo de versionamento do código.
----
-
-### 👤 Roberto ...
-*   **Cargo:** [Cargo]
-
-*   **O que foi feito:** escrever...
-
-*   **O que será feito:** escrever...
-
-*   **Impedimentos:** escrever...
+*   **Cargo:** Product Owner (PO)
+*   **O que foi feito:** Desenvolvimento do código inicial relacionado à **US14**, estruturação básica da aplicação e organização dos elementos de interface necessários para a funcionalidade.
+*   **O que será feito:** Refinamento do código e ajustes finais conforme os critérios de aceitação definidos no backlog da Sprint.
+*   **Impedimentos:** Dificuldade inicial com o fluxo de versionamento do GitHub (em fase de resolução).
 
 ---
 
+### 👤 Roberto
+*   **Cargo:** Desenvolvedor
+*   **O que foi feito:** Nenhuma atualização ou commit registrado no repositório até a presente data.
+*   **O que será feito:** Necessário alinhar a distribuição de carga para a próxima Sprint.
+*   **Impedimentos:** Inatividade na ferramenta de gestão (Kanban) e ausência de retorno nas comunicações do grupo.
+
+---
+
+> [!IMPORTANT]
+> **Observação da Gestão (Amanda):** Como Scrum Master, registro que as entregas de documentação, planejamento e as correções de bugs foram assumidas pela liderança e pela PO Nina para garantir o cumprimento do prazo de entrega da disciplina (09/04).
