@@ -42,15 +42,6 @@ A usuária possui livros escolares e acadêmicos que não utiliza mais e deseja 
 
 ------------------------------------------------------------------------
 
-## Definition of Done
-
-- [ ] Funcionalidade de busca por locais de doação/troca implementada
-- [ ] Resultados exibidos corretamente com informações dos locais
-- [ ] Testes realizados com sucesso
-- [ ] Documentação atualizada
-
-------------------------------------------------------------------------
-
 ## Campos recomendados no Board
 
 Tipo: User Story  
