@@ -3,7 +3,12 @@ about: história de usuário
 labels: user-story
 name: User Story
 title: US06
+epic: E03
 ---
+<br>
+<h2>Epic</h2>
+
+[Epic-03](https://github.com/books-project-organization/books-project-2026/blob/main/documentacao/E03.md)
 
 <h1>User Story 6 </h1>
 <p><strong>Como estudante do ensino médio<br>
