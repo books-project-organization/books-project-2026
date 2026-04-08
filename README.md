@@ -51,7 +51,7 @@ Diante desse cenário, surge a necessidade de uma solução que conecte quem pos
 
 🔗 LINKS:
 
-- FUN RETROSPECTIVES: https://app.funretrospectives.com/session/-OnX6vPL1iD-08U-5BKv?board=-OnX6vMYou_C9TCZe8PK (retrospectives atualizados nos slides)
+- FUN RETROSPECTIVES: https://app.funretrospectives.com/session/-OnX6vPL1iD-08U-5BKv?board=-OnX6vMYou_C9TCZe8PK
 
 - APRESENTAÇÃO: https://canva.link/qbx0pcq7zm8sik3
 
