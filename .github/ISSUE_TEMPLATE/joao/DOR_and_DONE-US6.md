@@ -1,4 +1,4 @@
-# 📋 Processos e Qualidade - Projeto Books 2026
+# 📋 Processos e Qualidade - Projeto Books 2026 - João Carlos
 
 Este documento define os critérios obrigatórios para a movimentação de tarefas no board do GitHub, utilizando a User Story 6 como padrão de referência.
 
