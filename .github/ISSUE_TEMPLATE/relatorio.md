@@ -30,9 +30,9 @@ Este documento registra o acompanhamento diário da equipe. Cada membro deve atu
 
 ### 👤 Nina Albuquerque
 *   **Cargo:** Desenvolvedora
-*   
+  
 *   **O que foi feito:** Desenvolvimento do código inicial do site relacionado à User Story 14, criando a estrutura básica da aplicação e organizando os primeiros elementos necessários para o funcionamento do projeto.
-*   
+  
 *   **O que será feito:** Continuação do desenvolvimento das funcionalidades da User Story 14 e realização de ajustes no código conforme os requisitos definidos no backlog.
 
 *   **Impedimentos:**  Dificuldade inicial na utilização do GitHub e no processo de versionamento do código.
