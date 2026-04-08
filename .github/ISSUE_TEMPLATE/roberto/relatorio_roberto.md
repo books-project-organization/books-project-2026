@@ -1,5 +1,5 @@
 # ✍️ Relatório de Contribuições - Roberto Campos
-**Papel**: --
+**Papel**: Desenvolvedor
 
 Este documento registra minhas contribuições e atividades realizadas durante o desenvolvimento do projeto.
 
