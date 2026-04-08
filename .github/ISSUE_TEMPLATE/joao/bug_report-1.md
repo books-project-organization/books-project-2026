@@ -1,12 +1,15 @@
 <h1>Filtro de preço não retorna livros mais baratos corretamente</h1>
-<h2>Descrição</h2>
+<h2>Descrição do problema</h2>
 <p>Ao utilizar o filtro de “menor preço” na busca por livros escolares, o sistema não retorna os resultados mais baratos disponíveis. Em alguns casos, livros mais caros aparecem antes dos mais baratos, comprometendo o objetivo da funcionalidade.</p>
 <hr>
 <h3>User story relacionada</h3>
-<p><strong>User Story</strong> 6:<br>
+
+  
+[User Story - 06](https://github.com/books-project-organization/books-project-2026/issues/46)
+  
 Como estudante do ensino médio<br>
 Quero encontrar livros escolares de forma mais barata e acessível<br>
-Para conseguir os materiais necessários para meus estudos.</p>
+Para conseguir os materiais necessários para meus estudos.
 <hr>
 <h2>Passos para reporduzir:</h2>
 <ol>
