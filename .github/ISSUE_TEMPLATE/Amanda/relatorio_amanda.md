@@ -14,6 +14,8 @@ Este documento registra minhas contribuições diárias e evolução técnica du
 *   Gestão de Documentação: Organizei a estrutura para os registros de Daily Scrums e preparei o terreno para a Retrospectiva e a descrição do Incremento, assegurando que todos os artefatos estejam prontos para a entrega final amanhã (09/04).
   
 *   Monitoramento de Kanban: Ajustei o status dos cards e verifiquei a rastreabilidade entre Épicos e User Stories.
+  
+*   Refatoração do Board Kanban:Reorganizei a estrutura de colunas para alinhar a terminologia do projeto com as práticas oficiais do framework Scrum. Estabeleci a distinção clara entre Product Backlog (visão geral) e Sprint Backlog (foco do ciclo atual), facilitando a auditoria dos requisitos exigidos na Sprint 1.
 
 ### 🧠 Reflexão
 
