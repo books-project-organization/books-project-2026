@@ -7,7 +7,7 @@ title: T03 – Criar busca e filtragem de livros didáticos e materiais de apoio
 
 ## 📌 User Story Relacionada
 
-História [Inserir Número] - Como Estudante que se prepara para o vestibular, quero Encontrar livros didáticos e materiais de apoio disponíveis em sebos ou pontos de troca para ter acesso a materiais de estudo atualizados com menor custo.
+História [#US02](https://github.com/books-project-organization/books-project-2026/blob/main/.github/ISSUE_TEMPLATE/E03.md) - Como Estudante que se prepara para o vestibular, quero Encontrar livros didáticos e materiais de apoio disponíveis em sebos ou pontos de troca para ter acesso a materiais de estudo atualizados com menor custo.
 Epic: E02 - Trocas e Doações (ou E03 - Busca e Localização)
 
 ------------------------------------------------------------------------
