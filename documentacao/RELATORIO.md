@@ -39,4 +39,4 @@ Este documento registra o acompanhamento diário da equipe. O foco desta atualiz
 ---
 
 > [!IMPORTANT]
-> **Observação da Gestão (Amanda):** Como Scrum Master, registro que as entregas de documentação, planejamento e as correções de bugs foram assumidas pela liderança e pela PO Nina para garantir o cumprimento do prazo de entrega da disciplina (09/04).
+> **Observação da Gestão:** Como Scrum Master, registro que as entregas de documentação, planejamento e as correções de bugs foram assumidas pela liderança e pela PO Nina para garantir o cumprimento do prazo de entrega da disciplina (09/04).
