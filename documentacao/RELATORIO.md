@@ -4,7 +4,7 @@ Este documento registra o acompanhamento diário da equipe. O foco desta atualiz
 
 ---
 
-## 📅 Atualizado no dia: [ 08/04/2026 ]
+## 📅 Atualizado no dia: [ 09/04/2026 ]
 
 ### 👤 Amanda Aziz
 *   **Cargo:** Scrum Master & Gestão de Produto
@@ -32,11 +32,11 @@ Este documento registra o acompanhamento diário da equipe. O foco desta atualiz
 
 ### 👤 Roberto
 *   **Cargo:** Desenvolvedor
-*   **O que foi feito:** Nenhuma atualização ou commit registrado no repositório até a presente data.
-*   **O que será feito:** Necessário alinhar a distribuição de carga para a próxima Sprint.
-*   **Impedimentos:** Inatividade na ferramenta de gestão (Kanban) e ausência de retorno nas comunicações do grupo.
+*   **O que foi feito:** Organização de artefatos e documentos no repositório; refinamento da US02 (Busca e Filtragem) com foco em critérios de aceitação para estudantes de baixa renda; acompanhamento e vinculação de tasks ao Épico 03 no board.
+*   **O que será feito:** Apoio na transição dos requisitos para o desenvolvimento técnico e validação de usabilidade dos filtros de busca.
+*   **Impedimentos:** Nenhum reportado (foco inicial em documentação e visão de produto para destravar a Sprint).
 
 ---
 
 > [!IMPORTANT]
-> **Observação da Gestão:** Como Scrum Master, registro que as entregas de documentação, planejamento e as correções de bugs foram assumidas pela liderança e pela PO Nina para garantir o cumprimento do prazo de entrega da disciplina (09/04).
+> **Observação da Gestão:** Registro que, apesar dos desafios iniciais de comunicação, a equipe logrou êxito na integração das frentes de documentação e desenvolvimento técnico. As entregas de Back-end e Front-end foram validadas e os artefatos de gestão consolidados para o encerramento da Sprint 1 dentro do prazo estabelecido.
