@@ -16,9 +16,9 @@ Este documento registra o acompanhamento diário da equipe. O foco desta atualiz
 
 ### 👤 João Carlos
 *   **Cargo:** Desenvolvedor
-*   **O que foi feito:** Nenhuma atualização de progresso reportada formalmente ao time até o momento.
-*   **O que será feito:** Aguardando posicionamento para execução das tarefas pendentes no Backlog.
-*   **Impedimentos:** Falta de comunicação e engajamento com o cronograma da Sprint 1.
+*   **O que foi feito:** Colaboração na definição de US; implementação da ordenação de livros por menor preço (Front e Back-end) e integração do filtro na interface.
+*   **O que será feito:** Correção da lógica de preços com desconto; revisão do back-end e criação de testes de validação para a ordenação.
+*   **Impedimentos:** Falhas na ordenação de itens em promoção e ausência de testes automatizados para identificar bugs precocemente.
 
 ---
 
