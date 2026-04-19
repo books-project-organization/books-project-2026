@@ -6,7 +6,25 @@ Este documento registra minhas contribuições diárias e evolução técnica du
 ---
 
 ### 🧠 Reflexão
-Atuar como "controle de qualidade" e facilitadora do grupo foi essencial para garantir que o esforço técnico do time estivesse devidamente documentado. O foco de hoje foi assegurar a transparência e a organização necessária para a avaliação da professora, transformando o trabalho prático em um incremento de projeto profissional.
+Atuar como "controle de qualidade" e facilitadora do grupo foi essencial para garantir que o esforço técnico do time estivesse devidamente documentado. Nesta etapa, o foco foi a Gestão de Mudanças: transformamos necessidades técnicas e de segurança em itens acionáveis no Backlog, garantindo que a evolução do LOCUS fosse registrada conforme as exigências acadêmicas e as boas práticas de mercado.
+
+---
+
+## 🗓️ [ 19/04/2026 ]
+### 🚀 Atividades do Dia
+*   **Refatoração Visual do README:** Reestruturei a documentação principal do projeto utilizando Markdown avançado, tabelas de público-alvo e hierarquia visual para elevar o nível de profissionalismo do repositório.
+  
+*   **Facilitação da Gestão de Mudanças:** Liderei a análise de impacto para novas demandas, estruturando e documentando as Issues de "Verificação em Duas Etapas (2FA)" e "Filtro de Raio de Distância" no Board Kanban.
+  
+*   **Análise de Impacto no Backlog:** Documentei como as novas mudanças afetariam as User Stories existentes, redefinindo prioridades e estimando o acréscimo de complexidade no cronograma da Sprint.
+  
+*   **Manutenção e Organização do Board:** Organizei a coluna de Issues para refletir os novos problemas identificados, garantindo que cada card possuísse descrição detalhada, justificativa técnica e labels de priorização para auditoria.
+  
+*   **Resolução de Conflitos de Processo:** Atuei na mitigação de falhas de comunicação assíncrona (Issue #48), propondo ajustes no fluxo de atualização das Dailies e garantindo a transparência das atividades do grupo.
+  
+*   **Garantia de Qualidade (QA) Documental:** Revisei a consistência técnica das justificativas de mudança para assegurar que os critérios de valor para o usuário e dependências técnicas estivessem alinhados aos objetivos do LOCUS.
+
+
 
 ---
 
