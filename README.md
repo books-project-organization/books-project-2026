@@ -1,5 +1,20 @@
+## UNIVERSIDADE CATÓLICA DE PERNAMBUCO
+> Curso - Ciências da Computação
+
+> 💻 processos e requisistos de software 
+
+---
+
 # 📚 LOCUS
 ### Plataforma colaborativa de sebos e troca de livros
+
+## 🏷️ DADOS DOS DISCENTES
+| MATRÍCULA | NOME E SOBRENOME | PERFIS |
+| :--- | :--- | :--- |
+| **00000859509** | Amanda Aziz  | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
+| **RA** | NOME E SOBRENOME | [nome-perfil](link-perfil) |
+| **RA** | NOME E SOBRENOME  | [nome-perfil](link-perfil) |
+| **RA** | NOME E SOBRENOME  | [nome-perfil](link-perfil) |
 
 ---
 
