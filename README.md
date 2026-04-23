@@ -12,9 +12,9 @@
 | MATRÍCULA | NOME E SOBRENOME | PERFIS |
 | :--- | :--- | :--- |
 | **00000859509** | Amanda Aziz  | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
-| **RA** | NOME E SOBRENOME | [nome-perfil](link-perfil) |
-| **RA** | NOME E SOBRENOME  | [nome-perfil](link-perfil) |
-| **RA** | NOME E SOBRENOME  | [nome-perfil](link-perfil) |
+| **RA** | Roberto Campos | [robertocamposf](https://github.com/robertocamposf) |
+| **RA** | Nina E SOBRENOME  | [ninalbq](https://github.com/ninalbq) |
+| **RA** | João Carlos  | [ joao-carlos-pires ](https://github.com/joao-carlos-pires) |
 
 ---
 
