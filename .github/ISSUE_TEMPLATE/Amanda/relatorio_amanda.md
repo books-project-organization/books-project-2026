@@ -10,6 +10,20 @@ Atuar como "controle de qualidade" e facilitadora do grupo foi essencial para ga
 
 ---
 
+## 🗓️ [ 23/04/2026 ]
+### 🚀 Atividades do Dia
+*   **Definição de NFR e Arquitetura (Aula 16):** Liderei a redação do documento `requisitos-NF_e_arquitetura.md`, estabelecendo métricas mensuráveis para os requisitos de Segurança (2FA), Desempenho (Geolocalização) e Usabilidade (Portabilidade Mobile).
+  
+*   **Gestão de Processos (Consolidação de Retrospectiva):** Realizei a mediação e movimentação dos itens do quadro de Retrospectiva para a coluna de **"Realizados"**, validando a eficácia das ações de melhoria contínua (ex: Pair Programming e definição de DoD).
+  
+*   **Refatoração do Sistema de Labels:** Criei e editei um novo sistema de etiquetas de categoria no Kanban (**ISSUE, Code, User Story, Design, Conteúdo**), otimizando a rastreabilidade visual e a organização do fluxo de trabalho.
+  
+*   **Manutenção de Board e Backlog:** Atualizei o status dos cards no Kanban para refletir o progresso real da equipe e garanti que as Issues de mudança (**PROB01, PROB02 e PROB03**) estivessem devidamente vinculadas aos requisitos não funcionais.
+  
+*   **Garantia de Rastreabilidade:** Estabeleci a conexão entre as decisões arquiteturais e as demandas do produto, assegurando que cada decisão técnica estivesse justificada pelo valor entregue às personas do projeto.
+
+---
+
 ## 🗓️ [ 19/04/2026 ]
 ### 🚀 Atividades do Dia
 *   **Refatoração Visual do README:** Reestruturei a documentação principal do projeto utilizando Markdown avançado, tabelas de público-alvo e hierarquia visual para elevar o nível de profissionalismo do repositório.
@@ -23,8 +37,6 @@ Atuar como "controle de qualidade" e facilitadora do grupo foi essencial para ga
 *   **Resolução de Conflitos de Processo:** Atuei na mitigação de falhas de comunicação assíncrona (Issue #48), propondo ajustes no fluxo de atualização das Dailies e garantindo a transparência das atividades do grupo.
   
 *   **Garantia de Qualidade (QA) Documental:** Revisei a consistência técnica das justificativas de mudança para assegurar que os critérios de valor para o usuário e dependências técnicas estivessem alinhados aos objetivos do LOCUS.
-
-
 
 ---
 
