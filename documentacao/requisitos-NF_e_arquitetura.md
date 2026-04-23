@@ -8,18 +8,18 @@ Este documento consolida as decisões técnicas e os requisitos de qualidade que
 
 ## 1️⃣ Requisitos Não Funcionais (NFR)
 
-- [ ] **RNF01 – Segurança (PROB01):** O sistema deve implementar autenticação de dois fatores (2FA) via bibliotecas de TOTP para proteção contra acessos não autorizados e ataques de força bruta (Prioridade Alta).
-- [ ] **RNF02 – Desempenho e Eficiência (PROB02):** O cálculo de distância para o filtro dinâmico de sebos deve processar coordenadas de geolocalização (latitude e longitude) com tempo de resposta otimizado para o usuário.
-- [ ] **RNF14-01 – Usabilidade (PROB03):** O botão de compartilhamento de recomendações na jornada do professor deve estar disponível na tela de resultados com um fluxo de, no máximo, 2 cliques.
-- [ ] **RNF14-02 – Portabilidade (PROB03):** Os links de recomendação gerados devem ser 100% compatíveis com navegadores mobile (Android/iOS) para facilitar o acesso via WhatsApp ou e-mail.
+- [ ] **RNF01 – Segurança [PROB01](https://github.com/books-project-organization/books-project-2026/issues/52):** O sistema deve implementar autenticação de dois fatores (2FA) via bibliotecas de TOTP para proteção contra acessos não autorizados e ataques de força bruta (Prioridade Alta).
+- [ ] **RNF02 – Desempenho e Eficiência [PROB02](https://github.com/books-project-organization/books-project-2026/issues/48):** O cálculo de distância para o filtro dinâmico de sebos deve processar coordenadas de geolocalização (latitude e longitude) com tempo de resposta otimizado para o usuário.
+- [ ] **RNF14-01 – Usabilidade [PROB03](https://github.com/books-project-organization/books-project-2026/issues/53):** O botão de compartilhamento de recomendações na jornada do professor deve estar disponível na tela de resultados com um fluxo de, no máximo, 2 cliques.
+- [ ] **RNF14-02 – Portabilidade [PROB03](https://github.com/books-project-organization/books-project-2026/issues/53):** Os links de recomendação gerados devem ser 100% compatíveis com navegadores mobile (Android/iOS) para facilitar o acesso via WhatsApp ou e-mail.
 
 ---
 
 ## 2️⃣ Justificativa Técnica
 
-- [ ] **Segurança Crítica (PROB01):** A implementação do 2FA é vital para garantir a base de confiança da aplicação, protegendo dados sensíveis dos usuários antes da entrega final do projeto.
-- [ ] **Conveniência e Valor (PROB02):** A evolução da busca por "cidade" para "raio de distância" aumenta drasticamente a utilidade prática do LOCUS, permitindo que o estudante encontre livros por proximidade real via GPS.
-- [ ] **Redução de Atrito (PROB03):** O compartilhamento ágil garante que os alunos recebam informações padronizadas e atualizadas, fortalecendo o ecossistema de economia circular entre professores e sebos.
+- [ ] **Segurança Crítica [PROB01](https://github.com/books-project-organization/books-project-2026/issues/52):** A implementação do 2FA é vital para garantir a base de confiança da aplicação, protegendo dados sensíveis dos usuários antes da entrega final do projeto.
+- [ ] **Conveniência e Valor [PROB02](https://github.com/books-project-organization/books-project-2026/issues/48):** A evolução da busca por "cidade" para "raio de distância" aumenta drasticamente a utilidade prática do LOCUS, permitindo que o estudante encontre livros por proximidade real via GPS.
+- [ ] **Redução de Atrito [PROB03](https://github.com/books-project-organization/books-project-2026/issues/53):** O compartilhamento ágil garante que os alunos recebam informações padronizadas e atualizadas, fortalecendo o ecossistema de economia circular entre professores e sebos.
 
 ---
 
