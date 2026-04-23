@@ -59,6 +59,5 @@ Desenvolver uma plataforma digital que conecte quem possui livros a quem precisa
 ## 🔗 Links do Projeto
 
 *   [🎨 Apresentação no Canva](https://canva.link/qbx0pcq7zm8sik3)
-*   [📋 Fun Retrospectives](https://app.funretrospectives.com/session/-OnX6vPL1iD-08U-5BKv?board=-OnX6vMYou_C9TCZe8PK)
 
 ---
