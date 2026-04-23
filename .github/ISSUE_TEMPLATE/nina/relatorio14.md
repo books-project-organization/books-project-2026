@@ -19,3 +19,7 @@ A história foi priorizada de acordo com sua importância para os usuários do s
 ### Justificativa técnica documentada
 
 A implementação dessa funcionalidade se justifica pela necessidade de facilitar o acesso a livros de menor custo, além de melhorar a utilidade do sistema ao oferecer uma ferramenta de comparação entre diferentes sebos.
+
+### Mudança feita no dia 20/04 
+
+adicionei o  arquivo mudança.md que fala sobre as mudanças que vao acontecer no desenvolvimento do user14
