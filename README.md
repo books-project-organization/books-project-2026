@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | **00000859509** | Amanda Aziz  | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
 | **RA** | Roberto Campos | [robertocamposf](https://github.com/robertocamposf) |
-| **RA** | Nina E SOBRENOME  | [ninalbq](https://github.com/ninalbq) |
+| **00000857557** | Nina Albuquerque | [ninalbq](https://github.com/ninalbq) |
 | **RA** | João Carlos  | [ joao-carlos-pires ](https://github.com/joao-carlos-pires) |
 
 ---
