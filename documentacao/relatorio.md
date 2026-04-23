@@ -4,13 +4,13 @@ Este documento registra o acompanhamento diário da equipe. O foco desta atualiz
 
 ---
 
-## 📅 Atualizado no dia: [ 09/04/2026 ]
+## 📅 Atualizado no dia: [ 23/04/2026 ]
 
 ### 👤 Amanda Aziz
 *   **Cargo:** Scrum Master & Gestão de Produto
-*   **O que foi feito:** Auditoria geral de requisitos da Sprint 1; refatoração das nomenclaturas do Kanban (Product/Sprint Backlog); criação da Matriz de Complexidade (`ESTIMATIVAS.md`) e segregação da documentação estratégica no diretório `docs/`.
-*   **O que será feito:** Facilitação da cerimônia de Retrospectiva, encerramento dos cards no board e submissão final do repositório para a professora.
-*   **Impedimentos:** Sobrecarga na gestão operacional e documental devido ao baixo índice de resposta de parte da equipe.
+*   **O que foi feito:** Liderança na definição e análise dos Requisitos Não Funcionais (NFR); redação do documento técnico `requisitos-NF_e_arquitetura.md`; estabelecimento de métricas mensuráveis para segurança (2FA) e desempenho (geolocalização); e garantia da rastreabilidade entre os requisitos e as Issues de mudança (**PROB01**, **PROB02** e **PROB03**) no Kanban.
+*   **O que será feito:** Revisão final da consistência técnica dos artefatos, auditoria de links no repositório e submissão final da entrega da Aula 16 para a professora mentora.
+*   **Impedimentos:** Gerenciamento do cronograma crítico para conciliar o refinamento da arquitetura técnica com o suporte documental aos demais membros da equipe.
 
 ---
 
