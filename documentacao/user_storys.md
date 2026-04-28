@@ -14,7 +14,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** adquirir novos títulos sem custo financeiro.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Should Have
+- **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠🟠⚪⚪⚪
 
 **✅ Critérios de Aceitação**
@@ -31,8 +31,8 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** ter acesso a materiais de estudo atualizados com menor custo.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Must Have
-- **Complexidade:** 🟠⚪⚪⚪⚪
+- **Prioridade:** 🔴 Must Have
+- **Complexidade:** 🟠🟠⚪⚪⚪
 
 **✅ Critérios de Aceitação**
 - [ ] O sistema deve permitir filtrar a busca especificamente pela categoria "Vestibular/Ensino Médio" ou "Saúde".
@@ -49,7 +49,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** aumentar a visibilidade digital do meu negócio físico.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Must Have
+- **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
 **✅ Critérios de Aceitação**
@@ -66,8 +66,8 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** recomendar fontes de consulta gratuitas aos alunos.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Should Have
-- **Complexidade:** 🟠⚪⚪⚪⚪
+- **Prioridade:** 🟡 Should Have
+- **Complexidade:** 🟠🟠🟠⚪⚪
 
 **✅ Critérios de Aceitação**
 - [ ] O sistema deve exibir um mapa com ícones identificando pontos de coleta oficiais.
@@ -83,7 +83,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** garantir a leitura sincronizada com o grupo.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Should Have
+- **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠🟠⚪⚪⚪
 
 **✅ Critérios de Aceitação**
@@ -100,7 +100,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** conseguir os materiais necessários para meus estudos com baixo custo.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Must Have
+- **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠🟠🟠🟠
 
 **✅ Critérios de Aceitação**
@@ -118,7 +118,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** suprir a demanda de distribuição em projetos sociais.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Could Have
+- **Prioridade:** 🟢 Could Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
 **✅ Critérios de Aceitação**
@@ -135,7 +135,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** identificar locais de troca de livros didáticos próximos à minha residência.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Must Have
+- **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠🟠🟠⚪
 
 **✅ Critérios de Aceitação**
@@ -152,7 +152,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** dar utilidade aos materiais que não utilizo mais e ajudar outras pessoas.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Should Have
+- **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
 **✅ Critérios de Aceitação**
@@ -170,7 +170,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** localizar obras raras de circulação limitada.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Could Have
+- **Prioridade:** 🟢 Could Have
 - **Complexidade:** 🟠🟠🟠🟠🟠
 
 **✅ Critérios de Aceitação**
@@ -187,7 +187,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** manter o acesso ao estudo com custo zero.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Should Have
+- **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
 **✅ Critérios de Aceitação**
@@ -204,8 +204,8 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** que os materiais exibidos caibam no meu orçamento disponível.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Must Have
-- **Complexidade:** 🟠⚪⚪⚪⚪
+- **Prioridade:** 🔴 Must Have
+- **Complexidade:** 🟠🟠🟠⚪⚪
 
 **✅ Critérios de Aceitação**
 - [ ] O sistema deve permitir que o usuário digite ou selecione um valor máximo em Reais.
@@ -221,7 +221,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** realizar compras comparativas entre diferentes sebos cadastrados.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Must Have
+- **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠🟠🟠⚪
 
 **✅ Critérios de Aceitação**
@@ -238,7 +238,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** poder indicar opções econômicas aos meus alunos.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Should Have
+- **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠🟠🟠⚪⚪
 
 **✅ Critérios de Aceitação**
@@ -255,7 +255,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Para:** localizar poesias regionais preservadas em papel.
 
 **⚙️ Detalhes Técnicos**
-- **Prioridade:** Could Have
+- **Prioridade:** 🟢 Could Have
 - **Complexidade:** 🟠🟠🟠🟠🟠
 
 **✅ Critérios de Aceitação**
