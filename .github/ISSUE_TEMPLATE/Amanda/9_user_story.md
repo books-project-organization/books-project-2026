@@ -7,7 +7,7 @@ Story Points: 1
 
 ## Epic
 
-Relacionado ao épico: [#ID_DO_EPICO](https://github.com/books-project-organization/books-project-2026/blob/main/documentacao/E01.md)
+Relacionado ao épico: [E01](https://github.com/books-project-organization/books-project-2026/blob/main/documentacao/E01.md)
 
 ------------------------------------------------------------------------
 
