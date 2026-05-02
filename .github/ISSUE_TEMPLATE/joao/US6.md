@@ -1,54 +1,42 @@
 ---
-about: história de usuário
-labels: user-story
-name: User Story 06
+labels: User Story 👤
 title: US06
-epic: E03
-sp: 3
+Sprint: SPRINT 1
+Story Points: 4
 ---
-<br>
-<h2>Epic</h2>
 
-[Epic-03](https://github.com/books-project-organization/books-project-2026/blob/main/documentacao/E03.md)
+## Epic
 
-<hr>
-<h1>
-  
-[User Story - 06](https://github.com/books-project-organization/books-project-2026/issues/46)
+Relacionado ao épico: [E03](https://github.com/books-project-organization/SPRINT/blob/main/documentacao/E03.md)
 
-</h1>
-<p><strong>Como estudante do ensino médio<br>
-Quero encontrar livros escolares de forma mais barata e acessível<br>
-Para conseguir os materiais necessários para meus estudos.</strong></p>
+------------------------------------------------------------------------
 
-<h2>Descrição</h2>
-<p>A plataforma deve possibilitar a busca por livros com base em critérios como título, disciplina ou série, além de permitir a aplicação de filtros 
-(como menor preço e localização). Os resultados devem apresentar alternativas mais baratas, incluindo livros usados, promoções ou diferentes 
-fornecedores.
+## História de Usuário - US06
 
+Como estudante do ensino médio,
+quero encontrar livros escolares de forma mais barata e acessível,
+para conseguir os materiais necessários para meus estudos.
 
-<br>
-O objetivo é facilitar o acesso a materiais escolares para estudantes de baixa renda, garantindo que consigam adquirir os livros necessários para seus 
-estudos de maneira prática, eficiente e com menor custo.</p>
-<hr>
-<h2>Critérios de Aceitação</h2>
-<ul> 
-  <li>Ao selecionar “menor preço”, os livros são exibidos em ordem crescente</li>
-  <li> O preço considerado é o valor final (com desconto, se houver)</li>
-  <li>A ordenação funciona corretamente para diferentes volumes de dados</li>
-  <li>A interface responde corretamente à seleção do filtro</li>
-  <li> Não há degradação perceptível de performance</li>
-</ul>
-<hr>
-<h2>Regras de negócio</h2>
-Os preços apresentados devem ser inferiores ou competitivos em relação ao valor de mercado<br>
-Fontes: a plataforma pode exibir livros de diferentes origens:
-<ul>
-  <li>Livros novos</li>
-  <li>Livros usados</li>
-  <li>Promoções de lojas</li>
-  <li>Vendedores parceiros</li>
-</ul>
+------------------------------------------------------------------------
 
-<h2>Métrica da avaliação</h2>
-Story Points: 3
+## 📝 Descrição
+<!--Explique com mais detalhes o contexto da funcionalidade.-->
+A plataforma deve possibilitar a busca por livros com base em critérios como título, disciplina ou série, além de permitir a aplicação de filtros (como menor preço e localização). Os resultados devem apresentar alternativas mais baratas, incluindo livros usados, promoções ou diferentes fornecedores.
+
+O objetivo é facilitar o acesso a materiais escolares para estudantes de baixa renda, garantindo que consigam adquirir os livros necessários para seus estudos de maneira prática, eficiente e com menor custo.
+
+------------------------------------------------------------------------
+
+## 👇 Critérios de Aceitação
+
+- [ ] Dado que o usuário selecione a opção "menor preço", quando a busca for processada, então os livros devem ser exibidos em ordem crescente de valor final
+- [ ] Dado que um livro possua desconto, quando exibido na lista, então o sistema deve considerar o preço promocional para a ordenação
+- [ ] Dado um grande volume de dados, quando a ordenação for aplicada, então o sistema deve processar a informação sem degradação de performance
+- [ ] Dado que o usuário interaja com o filtro de preço, quando selecionado, então a interface deve responder de forma imediata e correta
+
+------------------------------------------------------------------------
+
+## Regras de Negócio (se houver)
+
+- Os preços apresentados devem ser inferiores ou competitivos em relação ao valor de mercado.
+- A plataforma deve identificar e exibir a origem do livro: Novos, Usados, Promoções ou Vendedores parceiros.
