@@ -1,44 +1,44 @@
 ---
-about: Criar uma nova história de usuário
-labels: user-story
-name: User Story
-title: US03 - Encontrar livros didáticos e de vestibular acessíveis
+labels: User Story 👤
+title: US02
+Sprint: SPRINT 1
+Story Points: 2
 ---
 
 ## Epic
 
-Relacionado ao épico 03: [#E03](https://github.com/books-project-organization/books-project-2026/blob/main/.github/ISSUE_TEMPLATE/E03.md)
+Relacionado ao épico: [E03](https://github.com/books-project-organization/books-project-2026/blob/main/.github/ISSUE_TEMPLATE/E03.md)
 
 ------------------------------------------------------------------------
 
-## História de Usuário
+## História de Usuário - US02
 
-Como **[ Estudante que se prepara para o vestibular ]**\
-quero **[ Encontrar livros didáticos e materiais de apoio disponíveis em sebos ou pontos de troca ]**\
-para **[ Para ter acesso a materiais de estudo atualizados com menor custo. ]**.
+Como estudante que se prepara para o vestibular,
+quero encontrar livros didáticos e materiais de apoio em sebos ou pontos de troca,
+para ter acesso a materiais de estudo atualizados com menor custo.
 
 ------------------------------------------------------------------------
 
-## Descrição
-
+## 📝 Descrição
+<!--Explique com mais detalhes o contexto da funcionalidade.-->
 A plataforma deve permitir que estudantes localizem facilmente sebos parceiros e pontos de troca específicos que possuam acervo focado em preparação para o vestibular e Ensino Médio, permitindo o acesso a materiais essenciais de forma gratuita ou a baixo custo.
 
 ------------------------------------------------------------------------
 
-## Critérios de Aceitação
+## 👇 Critérios de Aceitação
 
--   [ ] O usuário deve conseguir filtrar a busca de materiais especificamente pela categoria "Vestibular/Ensino Médio".
--   [ ] Os resultados da busca devem diferenciar visualmente os livros disponíveis para doação (gratuitos) dos livros disponíveis para compra em sebos (baixo custo).
--   [ ] O usuário deve conseguir visualizar o endereço, horário de funcionamento e regras de troca/doação do ponto de coleta ou sebo selecionado.
--   [ ] O sistema deve exibir uma mensagem amigável caso não existam materiais didáticos disponíveis na região do usuário, sugerindo a ampliação do raio de busca.
+- [ ] Dado que o usuário acesse o campo de busca, quando aplicar o filtro, então o sistema deve permitir filtrar especificamente pela categoria "Vestibular/Ensino Médio"
+- [ ] Dado que a lista de resultados seja exibida, quando o usuário visualizar os itens, então deve haver uma diferenciação visual clara entre livros para "Doação" (grátis) e "Compra" (baixo custo)
+- [ ] Dado que um local seja selecionado, então o sistema deve exibir informações detalhadas como endereço, horário de funcionamento e regras de troca/doação
+- [ ] Dado que não existam materiais na região, quando a busca for processada, então o sistema deve sugerir a ampliação do raio de busca através de uma mensagem amigável
 
 ------------------------------------------------------------------------
 
-## Regras de Negócio
+## Regras de Negócio (se houver)
 
--   Apenas estabelecimentos parceiros validados ou pontos de troca oficiais podem ser listados para garantir a segurança dos estudantes.
--   Livros classificados como "Doação" não podem ter preço atrelado na plataforma.
--   Adequação à LGPD: O compartilhamento de dados de localização do estudante para encontrar pontos próximos só ocorrerá mediante consentimento explícito.
+- Apenas estabelecimentos parceiros validados ou pontos de troca oficiais podem ser listados.
+- Livros classificados como "Doação" não podem ter preço atrelado na plataforma.
+- O acesso à localização do estudante só ocorrerá mediante consentimento explícito (LGPD).
 
 ------------------------------------------------------------------------
 
@@ -50,11 +50,3 @@ A plataforma deve permitir que estudantes localizem facilmente sebos parceiros e
 -   [ ] Documentação técnica e manual de uso atualizados.
 -   [ ] Revisão de código concluída por pelo menos um desenvolvedor pareado.
 
-------------------------------------------------------------------------
-
-## Campos recomendados no Board
-
-Tipo: User Story\
-Sprint: Sprint 1\
-Prioridade: Alta\
-Story Points: 5
