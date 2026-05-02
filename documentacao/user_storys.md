@@ -101,7 +101,7 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 
 **⚙️ Detalhes Técnicos**
 - **Prioridade:** 🔴 Must Have
-- **Complexidade:** 🟠🟠🟠🟠🟠
+- **Complexidade:** 🟠🟠🟠🟠⚪
 
 **✅ Critérios de Aceitação**
 - [ ] O campo de busca deve aceitar códigos ISBN de 10 ou 13 dígitos.
