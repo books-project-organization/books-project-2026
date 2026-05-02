@@ -1,6 +1,6 @@
 ---
 about: história de usuário
-labels: user-story
+labels: User Story 👤
 name: User Story
 title: US09
 ---
