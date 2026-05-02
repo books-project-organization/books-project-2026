@@ -1,8 +1,8 @@
 ---
-about: história de usuário
 labels: User Story 👤
-name: User Story
 title: US09
+Sprint: SPRINT 1
+Story Points: 1
 ---
 
 ## Epic
@@ -11,7 +11,7 @@ Relacionado ao épico: [#ID_DO_EPICO](https://github.com/books-project-organizat
 
 ------------------------------------------------------------------------
 
-## História de Usuário
+## História de Usuário - US09
 
 Como estudante universitária,
 quero encontrar locais que aceitam doação ou troca de livros usados,
@@ -39,12 +39,3 @@ A usuária possui livros escolares e acadêmicos que não utiliza mais e deseja 
 - Apenas locais cadastrados podem aparecer na busca
 - Cada local deve informar claramente os serviços oferecidos (troca, doação ou venda)
 - A localização do usuário deve ser considerada para exibir resultados próximos
-
-------------------------------------------------------------------------
-
-## Campos recomendados no Board
-
-Tipo: User Story  
-Sprint: Sprint 1  
-Prioridade: Máxima  
-Story Points: 1
