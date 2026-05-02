@@ -45,6 +45,6 @@ A usuária possui livros escolares e acadêmicos que não utiliza mais e deseja 
 ## Campos recomendados no Board
 
 Tipo: User Story  
-Sprint: Sprint 2  
+Sprint: Sprint 1  
 Prioridade: Máxima  
 Story Points: 1
