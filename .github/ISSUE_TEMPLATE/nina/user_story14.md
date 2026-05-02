@@ -1,34 +1,40 @@
-# 📘 User Story 14
-
-## 🧩 História de Usuário
-
-**Como** professor  
-**Quero** encontrar livros por preços acessíveis em diferentes sebos  
-**Para** poder indicar opções econômicas aos meus alunos.
-
+---
+labels: User Story 👤
+title: US14
+Sprint: SPRINT 1
+Story Points: 3
 ---
 
-## 👤 Persona
+## Epic
 
-Professor que deseja recomendar materiais de estudo com menor custo para seus alunos.
+Relacionado ao épico: [EPICO???](link_em_aberto)
 
----
+------------------------------------------------------------------------
 
-## 🎯 Objetivo
+## História de Usuário - US14
 
-Permitir que professores encontrem livros disponíveis em diferentes sebos e comparem os preços para identificar as opções mais acessíveis.
+Como professor,
+quero encontrar e comparar preços de livros em diferentes sebos,
+para poder indicar opções econômicas aos meus alunos.
 
----
+------------------------------------------------------------------------
 
-## 🧪 Critérios de Aceitação
+## 📝 Descrição
+<!--Explique com mais detalhes o contexto da funcionalidade.-->
+O objetivo é permitir que o professor (persona) identifique rapidamente qual estabelecimento parceiro oferece o menor preço para um título específico, facilitando a recomendação de materiais acessíveis para turmas escolares ou acadêmicas.
 
-- O sistema deve permitir buscar livros em diferentes sebos.
-- O sistema deve exibir o preço de cada livro.
-- O sistema deve permitir comparar preços entre sebos.
-- O sistema deve destacar a opção mais barata.
+------------------------------------------------------------------------
 
----
+## 👇 Critérios de Aceitação
 
-## 🔗 Epic Relacionado
+- [ ] Dado que o usuário busque por um título, quando o sistema retornar os resultados, então deve exibir o preço praticado em cada sebo cadastrado
+- [ ] Dado que o livro esteja disponível em múltiplos locais, quando a lista for exibida, então o sistema deve destacar visualmente a "Melhor Oferta" (opção mais barata)
+- [ ] Dado que o usuário escolha um estabelecimento, então o sistema deve fornecer o endereço e contato do sebo para facilitar a indicação aos alunos
+- [ ] Dado que um sebo altere o valor, quando a busca for realizada, então o sistema deve refletir o preço atualizado para garantir a precisão da comparação
 
-Epic 14 — Facilitar a busca por livros baratos
+------------------------------------------------------------------------
+
+## Regras de Negócio (se houver)
+
+- O sistema deve considerar apenas sebos que possuam o livro em estoque imediato para a comparação.
+- O destaque de "Melhor Oferta" deve ser automático com base no valor final (incluindo taxas aparentes, se houver).
