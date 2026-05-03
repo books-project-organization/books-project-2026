@@ -1,5 +1,6 @@
 # 📚 Backlog de Histórias de Usuário (Padrão INVEST)
 Este backlog foi refinado para seguir os critérios INVEST e inclui a priorização (MoSCoW) e os critérios de aceitação para cada funcionalidade.
+> [Pontos feitos baseados no arquivo de estimativas.md](https://github.com/books-project-organization/SPRINT/blob/main/documentacao/estimativas.md)
 
 🔴 Must Have (Tem que ter)
 🟡 Should Have (Deveria ter)
