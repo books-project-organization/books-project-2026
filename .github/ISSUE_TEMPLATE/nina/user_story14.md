@@ -7,7 +7,7 @@ Story Points: 3
 
 ## Epic
 
-Relacionado ao épico: [EPICO???](link_em_aberto)
+Relacionado ao épico: [E03](https://github.com/books-project-organization/SPRINT/blob/main/documentacao/E03.md)
 
 ------------------------------------------------------------------------
 
