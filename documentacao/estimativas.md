@@ -1,4 +1,5 @@
 # 📊 Metodologia de Estimativas - Sprint 1
+> Esta matriz de complexidade (1 a 5) aplica-se tanto às User Stories quanto às Tasks técnicas e de gestão do projeto, garantindo uma métrica de Velocity unificada.
 
 Este documento descreve o critério utilizado pela equipe para mensurar o esforço das atividades planejadas.
 
