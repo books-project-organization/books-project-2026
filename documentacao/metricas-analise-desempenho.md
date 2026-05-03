@@ -14,7 +14,7 @@ A Velocity foi calculada somando os Story Points das atividades concluídas, uti
 *   **Análise:** Essa variação era esperada. A Sprint 1 teve um volume maior de itens (29), porém com foco em documentação e estruturação (itens de menor complexidade individual). A Sprint 2, embora com menos itens (9), concentrou o esforço em funcionalidades de alta complexidade (Níveis 4 e 5), como a implementação de 2FA e filtros dinâmicos.
 
 ## 3️⃣ Análise de Desempenho
-*   **Complexidade Técnica Acumulada:** O transbordamento (*spillover*) da Sprint 1 para a 2 ocorreu devido à subestimação da curva de aprendizado em APIs de geolocalização e segurança (2FA).
+*   **Complexidade Técnica Acumulada:** O transbordamento da Sprint 1 para a 2 ocorreu devido à subestimação da curva de aprendizado em APIs de geolocalização e segurança (2FA).
 *   **Fatores Externos:** O ritmo de desenvolvimento na Sprint 2 coincidiu com períodos de avaliações acadêmicas e entregas de outras disciplinas, o que limitou o *capacity* (capacidade produtiva) do time.
 *   **Refinamento do DoD:** O grupo tornou-se mais rigoroso com os critérios de aceite na Sprint 2, o que resultou em mais tempo gasto por tarefa para garantir a qualidade da entrega.
 
