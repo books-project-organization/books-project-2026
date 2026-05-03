@@ -5,8 +5,17 @@ Este documento registra minhas contribuições diárias e evolução técnica du
 
 ---
 
-### 🧠 Reflexão
-Atuar como "controle de qualidade" e facilitadora do grupo foi essencial para garantir que o esforço técnico do time estivesse devidamente documentado. Nesta etapa, o foco foi a Gestão de Mudanças: transformamos necessidades técnicas e de segurança em itens acionáveis no Backlog, garantindo que a evolução do LOCUS fosse registrada conforme as exigências acadêmicas e as boas práticas de mercado.
+## 🗓️ [ 03/05/2026 ]
+### 🚀 Atividades do Dia (Organização)
+*   **Reestruturação do Ambiente de Trabalho:** Criei e configurei as **Milestones** no GitHub para separar as Sprints 1 e 2, além de uma milestone específica para o acompanhamento das Retrospectivas, garantindo a organização cronológica do projeto.
+  
+*   **Refinamento de Backlog e Planejamento da Sprint 2:** Iniciei formalmente a Sprint 2 no board, criando novas issues estratégicas e garantindo que o fluxo de trabalho estivesse atualizado e funcional.
+  
+*   **Padronização de Artefatos (Issue #59):** refatoração e padronização da documentação técnica de todos os membros, corrigindo inconsistências e garantindo que os arquivos estivessem sob o mesmo padrão de qualidade e formato.
+  
+*   **Preparação da Defesa Técnica (Issue #58):** Iniciei a estruturação do material de apresentação final, consolidando os resultados técnicos e as métricas de desempenho para a banca examinadora.
+  
+*   **Manutenção Crítica do Kanban:** Realizei a organização e mudanças do board, movendo cards, atualizando status e vinculando as novas issues de mudança aos requisitos correspondentes.
 
 ---
 
