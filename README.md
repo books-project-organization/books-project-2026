@@ -55,9 +55,3 @@ Desenvolver uma plataforma digital que conecte quem possui livros a quem precisa
 | **🏫 Instituições** | Escolas e projetos sociais que incentivam o compartilhamento de livros. |
 
 ---
-
-## 🔗 Links do Projeto
-
-*   [🎨 Apresentação no Canva](https://canva.link/qbx0pcq7zm8sik3)
-
----
