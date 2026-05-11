@@ -1,4 +1,44 @@
-# 📊 Relatório de Métricas e Análise de Desempenho
+## 📊 Consolidação de Pontuação - Sprint 1
+
+### 1️⃣ User Stories (Entregas de Valor)
+
+| ID | Descrição | Pontos |
+| :--- | :--- | :---: |
+| **US02** | Encontrar livros didáticos acessíveis | 2 |
+| **US06** | Encontrar livros escolares baratos | 4 |
+| **US09** | Doar livros usados | 1 |
+| **US14** | Indicar livros acessíveis aos alunos | 3 |
+| **TOTAL US** | | **10 pts** |
+
+### 2️⃣ Tasks de Gestão, Documentação e Técnica
+
+| ID | Título da Task | Nível | Justificativa |
+| :--- | :--- | :---: | :--- |
+| **#22** | Contexto do domínio e problema | 1 | Documentação inicial e escopo. |
+| **#23** | Público-alvo definido | 1 | Descrição dos perfis de usuários. |
+| **#25** | Priorização Justificada | 2 | Esforço de análise estratégica. |
+| **#26** | Detalhamentos Técnicos | 3 | Requisitos não funcionais e arquitetura. |
+| **#28** | 🐛 BUG | 2 | Correção de inconsistências. |
+| **#31** | Backlog atualizado | 1 | Organização geral das issues. |
+| **#34** | TAREFAS (Gestão) | 2 | Decomposição de atividades no board. |
+| **#36** | Mapeamento de Personas | 2 | Perfil comportamental dos usuários. |
+| **#42** | Definir DOD (Definition of Done) | 1 | Critérios de aceite e qualidade. |
+| **#55** | Refinamento de Personas | 1 | Ajustes finais na documentação. |
+| **#18** | Desenvolvimento das funcionalidades | 4 | Task técnica de codificação. |
+| **#19** | Redirecionar login/cadastro para Home | 3 | Lógica de fluxo e navegação. |
+| **TOTAL TASKS** | | **23 pts** |
+
+---
+
+### 🚀 Resultado Final da Sprint 1
+*   **Velocity Total:** **33 pontos**
+*   **Composição:** 10 pts (User Stories) + 23 pts (Tasks/Gestão).
+
+
+
+
+
+# 📊 Relatório de Métricas e Análise de Desempenho 1
 
 ## 1️⃣ Cálculo da Velocity
 A Velocity foi calculada somando os Story Points das atividades concluídas, utilizando uma **Matriz de Complexidade (1 a 5)**. Nossa métrica é unificada, integrando User Stories e Tasks técnicas/gestão.
