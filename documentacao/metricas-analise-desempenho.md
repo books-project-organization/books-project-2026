@@ -1,3 +1,45 @@
+## 📊 Consolidação de Pontuação Final - Sprint 2
+
+### 1️⃣ User Stories (Total de 11)
+
+
+| ID | Descrição da História de Usuário | Pontos |
+| :--- | :--- | :---: |
+| **US01** | Trocar ou doar livros usados | 2 |
+| **US03** | Divulgar sebo na plataforma | 1 |
+| **US04** | Encontrar livros paradidáticos | 3 |
+| **US05** | Consultar locais de troca de livros | 2 |
+| **US07** | Encontrar livros para doação | 1 |
+| **US08** | Trocar livros escolares usados | 4 |
+| **US10** | Buscar livros raros ou antigos | 5 |
+| **US11** | Encontrar livros acessíveis | 1 |
+| **US12** | Doar livros escolares | 3 |
+| **US13** | Comparar preços de livros | 4 |
+| **US15** | Encontrar obras regionais | 5 |
+| **TOTAL US** | | **31 pts** |
+
+### 2️⃣ Tasks Técnicas, Gestão e Design
+
+
+| ID | Título da Task | Nível |
+| :--- | :--- | :---: |
+| **#51** | Implementação de Segurança (2FA) | 3 |
+| **#50** | Filtro de Raio (Geolocalização) | 2 |
+| **#46** | Refinamento de Critérios de Aceite | 4 |
+| **#43** | Preparação para Defesa da Sprint | 5 |
+| **#41** | Documentação de Arquitetura | 3 |
+| **#40** | Testes de Usabilidade Iniciais | 3 |
+| **#38** | Revisão do Backlog Priorizado | 3 |
+| **#35** | Ajustes de UI/UX (Feedback Anterior) | 2 |
+| **#60** | Ajustes de UI/UX e Feedback Visual | 3 |
+| **TOTAL TASKS** | | **28 pts** |
+
+### 🚀 Resultado Final da Sprint 2
+*   **Velocity Total:** **59 pontos** 
+*   **Composição:** 31 pts (User Stories) + 28 pts (Tasks/Gestão).
+
+---
+
 ## 📊 Consolidação de Pontuação - Sprint 1
 
 ### 1️⃣ User Stories (Entregas de Valor)
@@ -28,14 +70,11 @@
 | **#19** | Redirecionar login/cadastro para Home | 3 | Lógica de fluxo e navegação. |
 | **TOTAL TASKS** | | **23 pts** |
 
----
-
 ### 🚀 Resultado Final da Sprint 1
 *   **Velocity Total:** **33 pontos**
 *   **Composição:** 10 pts (User Stories) + 23 pts (Tasks/Gestão).
 
-
-
+---
 
 
 # 📊 Relatório de Métricas e Análise de Desempenho 1
