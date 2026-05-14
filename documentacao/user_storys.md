@@ -1,5 +1,7 @@
 # 📚 Backlog de Histórias de Usuário (Padrão INVEST)
-Este backlog foi refinado para seguir os critérios INVEST e inclui a priorização (MoSCoW) e os critérios de aceitação para cada funcionalidade.
+Este backlog foi refinado para seguir os critérios INVEST, utilizando a abordagem BDD (Behavior-Driven Development) 
+com a estrutura Dado/Quando/Então nos critérios de aceitação para guiar o desenvolvimento e os testes. 
+A priorização foi definida através da metodologia MoSCoW.
 > [Pontos feitos baseados no arquivo de estimativas.md](https://github.com/books-project-organization/SPRINT/blob/main/documentacao/estimativas.md)
 
 🔴 Must Have (Tem que ter)
@@ -18,10 +20,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠🟠⚪⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve exibir uma etiqueta visual diferenciando "Troca" de "Doação".
-- [ ] O usuário deve conseguir visualizar os detalhes de contato ou o botão de interesse para o item gratuito.
-- [ ] Caso o item não esteja mais disponível, o sistema deve ocultar a oferta automaticamente.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Identificação visual do tipo de oferta**
+- [ ] **Dado que** eu estou navegando pela lista de obras disponíveis
+- [ ] **Quando** eu visualizo um item cadastrado
+- [ ] **Então** o sistema deve exibir uma etiqueta clara indicando se a obra é para "Troca" ou "Doação".
+
+**Cenário 2: Visualização de detalhes para itens gratuitos**
+- [ ] **Dado que** eu visualizei um item gratuito na plataforma
+- [ ] **Quando** eu seleciono essa obra para ver mais detalhes
+- [ ] **Então** o sistema deve exibir as informações de contato do anunciante ou o botão de demonstrar interesse.
+
+**Cenário 3: Ocultação automática de ofertas indisponíveis**
+- [ ] **Dado que** um item de troca ou doação foi marcado como indisponível
+- [ ] **Quando** a lista de ofertas for carregada ou atualizada no sistema
+- [ ] **Então** o sistema deve ocultar automaticamente essa oferta para os usuários.
 
 ---
 
@@ -35,11 +49,27 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠⚪⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve permitir filtrar a busca especificamente pela categoria "Vestibular/Ensino Médio" ou "Saúde".
-- [ ] Os resultados devem diferenciar visualmente livros para "Doação" (grátis) de livros para "Compra" (baixo custo).
-- [ ] Ao selecionar um local, o sistema deve exibir endereço, horário e regras de troca/doação.
-- [ ] O sistema deve exibir uma mensagem amigável caso não existam materiais na região, sugerindo ampliar o raio de busca.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Filtrar busca por categoria específica**
+- [ ] **Dado que** eu estou na tela de busca de materiais
+- [ ] **Quando** eu seleciono a categoria "Vestibular/Ensino Médio" ou "Saúde" no filtro
+- [ ] **Então** o sistema deve atualizar a listagem para exibir apenas os livros pertencentes às categorias selecionadas.
+
+**Cenário 2: Diferenciação visual entre doação e compra**
+- [ ] **Dado que** o sistema carregou os resultados da busca por materiais de estudo
+- [ ] **Quando** eu visualizo a lista de livros retornados
+- [ ] **Então** o sistema deve diferenciar visualmente quais livros estão disponíveis para "Doação" (grátis) e quais estão para "Compra" (baixo custo).
+
+**Cenário 3: Exibição de informações detalhadas do local selecionado**
+- [ ] **Dado que** eu estou visualizando os resultados da busca de materiais
+- [ ] **Quando** eu seleciono um local físico ou sebo específico da lista
+- [ ] **Então** o sistema deve exibir na tela o endereço completo, o horário de funcionamento e as regras estabelecidas para troca ou doação.
+
+**Cenário 4: Busca sem resultados na região do usuário**
+- [ ] **Dado que** eu realizei uma busca por materiais de vestibular ou saúde
+- [ ] **Quando** não forem encontrados registros cadastrados na minha localização atual
+- [ ] **Então** o sistema deve exibir uma mensagem amigável informando a ausência de materiais e sugerir uma opção para ampliar o raio de busca geográfica.
 
 ---
 
@@ -53,10 +83,23 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve oferecer um formulário para nome, endereço, fotos e tipos de serviços.
-- [ ] Apenas estabelecimentos parceiros validados podem ser listados publicamente.
-- [ ] O proprietário deve poder editar as informações de catálogo e serviços a qualquer momento.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Preenchimento do formulário de cadastro**
+- [ ] **Dado que** eu sou um proprietário de sebo na tela de cadastro do estabelecimento
+- [ ] **Quando** eu insiro o nome, endereço, fotos e tipos de serviços do meu negócio
+- [ ] **E** confirmo o envio dos dados
+- [ ] **Então** o sistema deve salvar as informações preenchidas com sucesso.
+
+**Cenário 2: Exibição pública condicionada à validação**
+- [ ] **Dado que** o cadastro do meu estabelecimento foi concluído
+- [ ] **Quando** os usuários buscam por sebos cadastrados no sistema
+- [ ] **Então** o sistema não deve listar o meu sebo publicamente até que ele seja validado como um parceiro aprovado.
+
+**Cenário 3: Edição de informações do catálogo e serviços**
+- [ ] **Dado que** eu sou um proprietário de sebo autenticado na plataforma
+- [ ] **Quando** eu altero as informações de catálogo ou os serviços prestados no meu perfil
+- [ ] **Então** o sistema deve atualizar as informações do estabelecimento imediatamente.
 
 ---
 
@@ -70,10 +113,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠🟠🟠⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve exibir um mapa com ícones identificando pontos de coleta oficiais.
-- [ ] Ao clicar no ponto, o sistema deve mostrar o endereço e o tipo de livro aceito/disponível.
-- [ ] Deve haver uma opção de compartilhamento da localização do ponto de coleta.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Exibição do mapa com pontos de coleta**
+- [ ] **Dado que** eu estou na tela de mapeamento de pontos de coleta
+- [ ] **Quando** o mapa é carregado pelo sistema
+- [ ] **Então** o sistema deve exibir marcadores visuais que identifiquem os pontos de coleta oficiais cadastrados.
+
+**Cenário 2: Exibição de detalhes do ponto de coleta**
+- [ ] **Dado que** eu vejo os marcadores de coleta no mapa
+- [ ] **Quando** eu clico em um ponto de coleta específico
+- [ ] **Então** o sistema deve abrir um balão ou janela exibindo o endereço completo e os tipos de livros que são aceitos ou que estão disponíveis ali.
+
+**Cenário 3: Compartilhamento de localização do ponto**
+- [ ] **Dado que** eu abri os detalhes de um ponto de coleta específico
+- [ ] **Quando** eu clico na opção de compartilhamento
+- [ ] **Então** o sistema deve gerar um link ou disponibilizar a ação para enviar a localização do ponto a terceiros.
 
 ---
 
@@ -87,10 +142,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠🟠⚪⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O card do livro deve exibir o status "Em Estoque" ou "Indisponível".
-- [ ] O sistema deve informar em qual sebo físico o livro se encontra para retirada.
-- [ ] Deve haver um selo de "Pronta Entrega/Retirada" nos resultados.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Exibição do status de estoque do livro**
+- [ ] **Dado que** eu realizei uma busca por um título de livro específico
+- [ ] **Quando** o sistema exibe o card de informações desse livro
+- [ ] **Então** o sistema deve mostrar claramente o status como "Em Estoque" ou "Indisponível".
+
+**Cenário 2: Identificação do sebo físico de origem**
+- [ ] **Dado que** o livro pesquisado possui o status "Em Estoque"
+- [ ] **Quando** eu detalho as informações daquele exemplar
+- [ ] **Então** o sistema deve exibir o nome e o endereço do sebo físico onde o livro se encontra armazenado para retirada.
+
+**Cenário 3: Exibição do selo de pronta entrega**
+- [ ] **Dado que** eu visualizei a lista de resultados de busca
+- [ ] **Quando** um ou mais livros estiverem disponíveis para retirada imediata
+- [ ] **Então** o sistema deve aplicar um selo visual de "Pronta Entrega/Retirada" nesses itens.
 
 ---
 
@@ -104,11 +171,27 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠🟠🟠⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O campo de busca deve aceitar códigos ISBN de 10 ou 13 dígitos.
-- [ ] Ao selecionar "Menor Preço", os livros devem ser exibidos em ordem crescente de valor final.
-- [ ] A interface deve destacar a origem do livro (Novo, Usado, Promoção ou Parceiro).
-- [ ] A busca deve retornar alternativas competitivas em relação ao valor de mercado.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Busca utilizando código ISBN**
+- [ ] **Dado que** eu estou na barra de busca do sistema
+- [ ] **Quando** eu digito um código ISBN válido de 10 ou 13 dígitos e executo a pesquisa
+- [ ] **Then** o sistema deve localizar e exibir o livro escolar correspondente exatamente àquele código.
+
+**Cenário 2: Ordenação por menor preço do material**
+- [ ] **Dado que** eu fiz uma busca por título ou série escolar e recebi múltiplos resultados
+- [ ] **Quando** eu seleciono o filtro de ordenação por "Menor Preço"
+- [ ] **Então** o sistema deve listar os livros reorganizados em ordem crescente considerando o valor final do item.
+
+**Cenário 3: Destaque da origem e condição do livro**
+- [ ] **Dado que** os resultados da minha busca foram carregados em tela
+- [ ] **Quando** eu visualizo os itens disponíveis
+- [ ] **Então** a interface do sistema deve destacar visualmente se a origem daquele livro é "Novo", "Usado", "Promoção" ou de um "Parceiro".
+
+**Cenário 4: Retorno de alternativas com valores competitivos**
+- [ ] **Dado que** eu pesquisei por um livro didático específico
+- [ ] **Quando** os resultados forem listados na tela
+- [ ] **Então** o sistema deve apresentar alternativas cujo valor financeiro seja inferior ou competitivo em relação à média praticada no mercado tradicional.
 
 ---
 
@@ -122,10 +205,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟢 Could Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] Deve haver uma seção específica para "Lotes de Doação".
-- [ ] O sistema deve informar a quantidade de exemplares disponíveis no lote.
-- [ ] Deve haver um botão para manifestar interesse no lote completo.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Acesso à seção exclusiva de lotes**
+- [ ] **Dado que** eu estou navegando pelo menu principal do sistema
+- [ ] **Quando** eu clico na seção destinada a doações em grande escala
+- [ ] **Então** o sistema deve exibir uma área dedicada e exclusiva chamada "Lotes de Doação".
+
+**Cenário 2: Informação quantitativa do lote**
+- [ ] **Dado que** eu estou visualizando as ofertas ativas na seção de lotes
+- [ ] **Quando** eu observo um lote de livros específico
+- [ ] **Então** o sistema deve informar claramente o número total de exemplares contidos e disponíveis naquele lote.
+
+**Cenário 3: Manifestação de interesse no lote completo**
+- [ ] **Dado que** eu encontrei um lote de livros adequado para a demanda da ONG
+- [ ] **Quando** eu decido solicitar os livros
+- [ ] **Então** o sistema deve disponibilizar um botão de ação para manifestar interesse no lote de forma integral.
 
 ---
 
@@ -139,10 +234,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠🟠🟠⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O usuário deve poder selecionar raios de distância pré-definidos (Ex: 2km, 5km, 10km).
-- [ ] O sistema deve solicitar consentimento explícito para acessar a localização (LGPD).
-- [ ] A lista de resultados deve ser atualizada automaticamente ao alterar o raio de busca.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Seleção de raios de distância predefinidos**
+- [ ] **Dado que** eu estou na barra de filtros geográficos de estabelecimentos
+- [ ] **Quando** eu interajo com a opção de distância
+- [ ] **Então** o sistema deve disponibilizar opções pré-definidas em quilômetros como 2km, 5km e 10km.
+
+**Cenário 2: Consentimento de uso de localização (LGPD)**
+- [ ] **Dado que** é a primeira vez que tento usar a busca por proximidade
+- [ ] **Quando** eu ativo o filtro de distância por geolocalização
+- [ ] **Então** o sistema deve exibir uma mensagem solicitando meu consentimento explícito para acessar as coordenadas do dispositivo de acordo com a LGPD.
+
+**Cenário 3: Atualização dinâmica ao modificar o raio**
+- [ ] **Dado que** eu já dei permissão de localização e estou visualizando resultados próximos
+- [ ] **Quando** eu altero a seleção do raio de busca de 2km para 10km
+- [ ] **Então** o sistema deve atualizar de forma automática a listagem de estabelecimentos baseando-se no novo raio estabelecido.
 
 ---
 
@@ -156,11 +263,27 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] Dado que a usuária busca por doação, o sistema deve exibir Nome, Localização e tipo de serviço.
-- [ ] O usuário deve conseguir identificar claramente se o local aceita doação, troca ou ambos.
-- [ ] Livros classificados como "Doação" não podem ter preço atrelado na plataforma.
-- [ ] O sistema deve informar caso não existam locais de descarte cadastrados na proximidade.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Exibição de informações sobre locais de doação**
+- [ ] **Dado que** eu estou pesquisando por opções de doação na plataforma
+- [ ] **Quando** os resultados correspondentes aparecem na tela
+- [ ] **Então** o sistema deve exibir detalhadamente o Nome, a Localização geográfica e o Tipo de Serviço oferecido pela instituição ou ponto.
+
+**Cenário 2: Identificação da modalidade aceita pelo local**
+- [ ] **Dado que** eu localizei pontos de entrega no sistema
+- [ ] **Quando** eu leio os cartões de informações desses pontos
+- [ ] **Então** o sistema deve indicar de forma nítida se o estabelecimento aceita apenas doações, apenas trocas ou se trabalha com ambas as modalidades.
+
+**Cenário 3: Ausência de preço em livros de doação**
+- [ ] **Dado que** um livro foi cadastrado sob a classificação estrita de "Doação"
+- [ ] **Quando** esse item é exibido em qualquer tela da plataforma
+- [ ] **Então** o sistema não deve permitir a exibição ou a associação de qualquer valor financeiro cobrado sobre ele.
+
+**Cenário 4: Alerta de falta de locais de descarte na região**
+- [ ] **Dado que** eu configurei minha busca por pontos de descarte ou doação
+- [ ] **Quando** não houver nenhuma entidade cadastrada em um raio próximo à minha localização
+- [ ] **Então** o sistema deve emitir um aviso informativo notificando que não há locais de descarte cadastrados nas proximidades.
 
 ---
 
@@ -174,10 +297,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟢 Could Have
 - **Complexidade:** 🟠🟠🟠🟠🟠
 
-**✅ Critérios de Aceitação**
-- [ ] O filtro de ano deve permitir a seleção de décadas ou séculos específicos.
-- [ ] O sistema deve oferecer filtros de estado de conservação (Excelente, Bom, Regular).
-- [ ] Obras raras devem ser identificadas com um selo especial nos resultados.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Filtro de ano por décadas ou séculos**
+- [ ] **Dado que** eu estou na seção de busca avançada da plataforma
+- [ ] **Quando** eu seleciono os parâmetros de cronologia da obra
+- [ ] **Então** o sistema deve permitir que eu escolha décadas ou séculos específicos de publicação como critério restritivo.
+
+**Cenário 2: Filtro por categorias de conservação**
+- [ ] **Dado que** eu desejo selecionar o estado físico do livro que procuro
+- [ ] **Quando** eu abro o menu de estado de conservação
+- [ ] **Então** o sistema deve fornecer opções exatas para filtrar por "Excelente", "Bom" ou "Regular".
+
+**Cenário 3: Identificação visual de obras raras**
+- [ ] **Dado que** eu executei uma busca que retornou livros antigos ou escassos
+- [ ] **Quando** a lista de resultados é montada na interface
+- [ ] **Então** o sistema deve aplicar um selo especial de destaque nos cards dessas obras raras.
 
 ---
 
@@ -191,10 +326,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠⚪⚪⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve possuir um filtro para "Benefício Senior/Gratuidade".
-- [ ] A descrição do estabelecimento deve detalhar as regras para idosos.
-- [ ] O ícone do estabelecimento deve destacar se ele possui programa de gratuidade.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Filtragem por programas de benefício sênior**
+- [ ] **Dado que** eu estou visualizando os filtros de busca de estabelecimentos
+- [ ] **Quando** eu ativo a opção de filtro "Benefício Sênior/Gratuidade"
+- [ ] **Então** o sistema deve restringir os resultados exibidos apenas para locais que oferecem esse programa.
+
+**Cenário 2: Detalhamento de regras de gratuidade na descrição**
+- [ ] **Dado que** eu selecionei um estabelecimento participante do programa para idosos
+- [ ] **Quando** eu visualizo a página de perfil ou os detalhes deste local
+- [ ] **Então** a descrição textual deve explicar detalhadamente quais as regras e condições para os idosos usufruírem do benefício.
+
+**Cenário 3: Destaque visual no ícone do estabelecimento**
+- [ ] **Dado que** a lista geral de estabelecimentos é exibida na tela
+- [ ] **Quando** um determinado local possuir um programa ativo de gratuidade sênior
+- [ ] **Então** o ícone desse estabelecimento deve conter um marcador visual diferenciado que destaque essa vantagem.
 
 ---
 
@@ -208,10 +355,23 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠🟠⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve permitir que o usuário digite ou selecione um valor máximo em Reais.
-- [ ] Resultados com valores superiores ao filtro não devem ser exibidos.
-- [ ] O filtro deve ser persistente durante a navegação entre diferentes categorias.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Entrada manual ou seleção de valor financeiro limite**
+- [ ] **Dado que** eu preciso limitar os gastos da minha pesquisa de livros
+- [ ] **Quando** eu digito ou escolho um limite de valor máximo no campo de preço em Reais
+- [ ] **E** aplico a busca
+- [ ] **Então** o sistema deve registrar e processar esse valor como o teto máximo permitido.
+
+**Cenário 2: Restrição de exibição de valores superiores**
+- [ ] **Dado que** o teto máximo de valor foi definido no filtro de preço
+- [ ] **Quando** os resultados de livros à venda forem processados
+- [ ] **Então** o sistema não deve listar nenhum livro que possua preço de venda superior ao valor inserido no filtro.
+
+**Cenário 3: Persistência do filtro entre categorias**
+- [ ] **Dado que** eu defini um limite de preço máximo durante uma busca
+- [ ] **Quando** eu navego ou mudo para outra categoria de produtos na plataforma
+- [ ] **Então** o sistema deve manter o mesmo filtro de preço ativo sem resetar o valor estabelecido.
 
 ---
 
@@ -225,10 +385,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🔴 Must Have
 - **Complexidade:** 🟠🟠🟠🟠⚪
 
-**✅ Critérios de Aceitação**
-- [ ] A opção de ordenação "Menor Preço" deve estar visível no topo da listagem.
-- [ ] O sistema deve considerar o preço promocional para a ordenação.
-- [ ] A ordenação deve funcionar corretamente mesmo com grandes volumes de dados.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Visibilidade da ferramenta de ordenação**
+- [ ] **Dado que** eu digitei um termo de busca e recebi uma listagem de livros
+- [ ] **Quando** a página termina de carregar a interface
+- [ ] **Então** a opção para ordenar por "Menor Preço" deve estar totalmente visível e acessível no topo da lista.
+
+**Cenário 2: Consideração de valores promocionais na ordenação**
+- [ ] **Dado que** existem livros com preços originais altos, mas que possuem descontos ativos
+- [ ] **Quando** eu aciono a ordenação por "Menor Preço"
+- [ ] **Então** o algoritmo do sistema deve usar o valor promocional final para organizar a exibição da lista.
+
+**Cenário 3: Desempenho da ordenação com grandes volumes de dados**
+- [ ] **Dado que** a busca efetuada retornou uma quantidade massiva de registros de livros e sebos
+- [ ] **Quando** eu aplico o comando de ordenação por menor preço
+- [ ] **Então** o sistema deve reordenar e reexibir a lista corretamente sem travar ou falhar no carregamento.
 
 ---
 
@@ -242,10 +414,22 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟡 Should Have
 - **Complexidade:** 🟠🟠🟠⚪⚪
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve exibir o preço de um mesmo livro em diferentes sebos cadastrados.
-- [ ] O sistema deve destacar visualmente a opção mais barata encontrada ("Melhor Oferta").
-- [ ] O usuário deve conseguir visualizar o endereço e contato do sebo que oferece o menor preço.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Exibição comparativa de preços em múltiplos sebos**
+- [ ] **Dado que** eu estou visualizando o cadastro de um livro específico adotado nas aulas
+- [ ] **Quando** eu abro a seção de ofertas disponíveis para esse título
+- [ ] **Então** o sistema deve exibir de forma unificada uma lista mostrando os diferentes preços cobrados por cada um dos sebos cadastrados que possuem o item.
+
+**Cenário 2: Destaque da melhor oferta financeira**
+- [ ] **Dado que** o livro pesquisado possui ofertas de venda em mais de um estabelecimento
+- [ ] **Quando** a lista comparativa é desenhada em tela
+- [ ] **Então** o sistema deve destacar visualmente a opção com menor valor sob um selo de "Melhor Oferta".
+
+**Cenário 3: Exibição de contato e endereço do sebo mais barato**
+- [ ] **Dado que** eu identifiquei qual estabelecimento possui a melhor oferta para o livro
+- [ ] **Quando** eu clico ou visualizo os dados daquela oferta específica
+- [ ] **Então** o sistema deve exibir de imediato o endereço físico completo e as informações de contato daquele sebo.
 
 ---
 
@@ -259,7 +443,19 @@ Este backlog foi refinado para seguir os critérios INVEST e inclui a priorizaç
 - **Prioridade:** 🟢 Could Have
 - **Complexidade:** 🟠🟠🟠🟠🟠
 
-**✅ Critérios de Aceitação**
-- [ ] O sistema deve possuir um filtro de "Autor Regional".
-- [ ] Deve ser possível filtrar apenas por formatos "Capa Comum" ou "Capa Dura" (excluindo E-books).
-- [ ] O sistema deve exibir a editora ou se o livro é de produção independente.
+**✅ Critérios de Aceitação (BDD)**
+
+**Cenário 1: Aplicação do filtro de autores regionais**
+- [ ] **Dado que** eu quero incentivar a literatura local através da busca do sistema
+- [ ] **Quando** eu ativo o filtro de busca com o parâmetro "Autor Regional" selecionado
+- [ ] **Então** o sistema deve restringir os resultados para exibir apenas obras escritas por autores mapeados na região.
+
+**Cenário 2: Filtro por formatos físicos e exclusão de e-books**
+- [ ] **Dado que** eu procuro apenas por livros táteis em papel
+- [ ] **Quando** eu seleciono os formatos "Capa Comum" ou "Capa Dura" no filtro de formato
+- [ ] **Então** o sistema deve remover totalmente qualquer livro em formato digital (E-book) dos resultados exibidos.
+
+**Cenário 3: Identificação de editora e produções independentes**
+- [ ] **Dado que** o resultado da busca por livros físicos regionais foi apresentado na tela
+- [ ] **Quando** eu analiso o card ou a página de detalhes de uma obra específica
+- [ ] **Então** o sistema deve exibir claramente o nome da editora responsável ou informar se o exemplar trata-se de uma produção independente.
