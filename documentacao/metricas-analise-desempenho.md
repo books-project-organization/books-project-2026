@@ -28,7 +28,7 @@
 | **#41**         | Documentação de Arquitetura          |      3     |
 | **#40**         | Testes de Usabilidade Iniciais       |      3     |
 | **#38**         | Revisão do Backlog Priorizado        |      3     |
-| **#35**         | Ajustes de UI/UX (Feedback Anterior) |      2     |
+| **#62**         | Atualização do Backlog de US         |      2     |
 | **#60**         | Ajustes de UI/UX e Feedback Visual   |      3     |
 | **TOTAL TASKS** |                                      | **28 pts** |
 
