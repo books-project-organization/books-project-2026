@@ -21,21 +21,21 @@
 
 | ID              | Título da Task                       |    Nível   |
 | :-------------- | :----------------------------------- | :--------: |
-| **#51**         | Implementação de Segurança (2FA)     |      3     |
-| **#50**         | Filtro de Raio (Geolocalização)      |      2     |
-| **#46**         | Refinamento de Critérios de Aceite   |      4     |
-| **#43**         | Preparação para Defesa da Sprint     |      5     |
-| **#41**         | Documentação de Arquitetura          |      3     |
-| **#40**         | Testes de Usabilidade Iniciais       |      3     |
-| **#38**         | Revisão do Backlog Priorizado        |      3     |
-| **#62**         | Atualização do Backlog de US         |      2     |
-| **#60**         | Ajustes de UI/UX e Feedback Visual   |      3     |
-| **TOTAL TASKS** |                                      | **28 pts** |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
+| **TOTAL TASKS** |                                      | **XX pts** |
 
 ### 🚀 Resultado Final da Sprint 2
 
-* **Velocity Total:** **59 pontos**
-* **Composição:** 31 pts (User Stories) + 28 pts (Tasks/Gestão).
+* **Velocity Total:** **XX pontos**
+* **Composição:** 31 pts (User Stories) + XX pts (Tasks/Gestão).
 
 ---
 
