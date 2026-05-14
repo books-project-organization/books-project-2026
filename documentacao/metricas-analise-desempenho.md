@@ -106,11 +106,11 @@ Diferentemente da Sprint anterior, houve maior equilíbrio entre desenvolvimento
 | Sprint       | Velocity | Foco Principal                                                   |
 | :----------- | :------: | :--------------------------------------------------------------- |
 | **Sprint 1** |  33 pts  | Estruturação inicial, documentação e funcionalidades básicas     |
-| **Sprint 2** |  59 pts  | Funcionalidades avançadas, segurança, UX e refinamentos técnicos |
+| **Sprint 2** |  XX pts  | Funcionalidades avançadas, segurança, UX e refinamentos técnicos |
 
 ### 📈 Evolução Observada
 
-Houve um aumento significativo da Velocity, passando de **33 para 59 pontos**, representando um crescimento aproximado de **78,8%**.
+Houve um aumento significativo da Velocity, passando de **33 para XX pontos**, representando um crescimento aproximado de **XX.X%**.
 
 ### 📌 Motivos para o aumento da produtividade
 
