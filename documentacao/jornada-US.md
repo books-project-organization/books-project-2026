@@ -1,6 +1,6 @@
 # Mapa de Jornada do Usuário: Beatriz (A Leitora)
 
-## 📌 Visão Geral da Persona
+##  Visão Geral da Persona
 
 - **Usuária:** Beatriz, 34 anos — Professora de Literatura  
 - **Objetivo principal:** Descobrir novos sebos independentes em bairros ainda não visitados para o fim de semana.  
@@ -8,7 +8,7 @@
 
 ---
 
-# 📊 Matriz da Jornada
+#  Matriz da Jornada
 
 | Etapa da Jornada | 1. Consciência & Entrada | 2. Exploração & Filtro | 3. Seleção & Favoritos | 4. Ação Pós-Uso (O Passeio) |
 |---|---|---|---|---|
@@ -21,9 +21,3 @@
 
 ---
 
-# 💡 Recomendações de Produto para o Time de Desenvolvimento
-
-## ✨ O “Pulo do Gato” para a Beatriz
-
-> O maior ganho de UX aqui é conectar o objetivo de **Explorar** (Etapas 2 e 3) com a dor de **Desapegar** (Etapa 4).  
-> Se a tela de detalhes do sebo mostrar de forma imediata se o lugar aceita trocas, compras ou créditos por livros usados, a Beatriz resolve o problema de espaço na estante ao mesmo tempo em que realiza o passeio que estava buscando.
