@@ -46,9 +46,9 @@
 
 ---
 
-# 💡 Recomendações de Produto para o Time de Desenvolvimento
+#  Recomendações de Produto para o Time de Desenvolvimento
 
-## ✨ O “Pulo do Gato” para o Lucas
+##  O “Pulo do Gato” para o Lucas
 
 > O principal ganho de UX nessa jornada é reduzir a incerteza sobre os pontos de coleta.  
 > Quanto mais claras forem as informações exibidas diretamente no mapa e na janela de detalhes — especialmente os tipos de livros aceitos — maior será a confiança do usuário em concluir a doação.  
