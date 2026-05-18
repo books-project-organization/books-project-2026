@@ -1,4 +1,4 @@
-Mapa de Jornada da Beatriz no LOCUS
+<strong>Mapa de Jornada da Beatriz no LOCUS<strong>
 Etapa 1: Consciência & Entrada no App
 Ações da Beatriz: 
 Anseio: "Onde eu posso ir no sábado que seja diferente dos sebos de sempre do centro? Será que tem algo escondido na zona norte ou no bairro vizinho?"
