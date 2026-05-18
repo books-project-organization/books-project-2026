@@ -19,23 +19,26 @@
 
 ### 2️⃣ Tasks Técnicas, Gestão e Design
 
-| ID              | Título da Task                       |    Nível   |
-| :-------------- | :----------------------------------- | :--------: |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **#XX**         | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     |      X     |
-| **TOTAL TASKS** |                                      | **XX pts** |
+
+| ID              | Título da Task                                                                   |   Pontos   |
+| :-------------- | :------------------------------------------------------------------------------- | :--------: |
+| **#63**         | Jornada de US                                                                    |      2     |
+| **#62**         | Atualização do Backlog de Histórias de Usuário com os critérios em BDD           |      2     |
+| **#60**         | Ajustes de UI/UX e Feedback Visual                                               |      3     |
+| **#53**         | PROB03 - [APRIMORAMENTO] Nova Funcionalidade de Compartilhamento de Recomendações (US14) |      3     |
+| **#52**         | PROB01 - [MUDANÇA] [IMPLEMENTAÇÃO ] Verificação em Duas Etapas (2FA)             |      5     |
+| **#48**         | PROB02 - [MUDANÇA] Filtro de Raio de Distância Dinâmico.                        |      4     |
+| **#59**         | Refinamento e Padronização da Documentação Técnica                               |      2     |
+| **#58**         | apresentação para a Defesa                                                       |      3     |
+| **#57**         | Criação do Relatório de Métricas                                                 |      3     |
+| **#17**         | Design e estrutura de abas de pesquisa                                           |      2     |
+| **#16**         | Cadastro e Login                                                                 |      3     |
+| **TOTAL TASKS** |                                                                                  | **32 pts** |
 
 ### 🚀 Resultado Final da Sprint 2
 
-* **Velocity Total:** **XX pontos**
-* **Composição:** 31 pts (User Stories) + XX pts (Tasks/Gestão).
+* **Velocity Total:** **63 pontos**
+* **Composição:** 31 pts (User Stories) + 32 pts (Tasks/Gestão).
 
 ---
 
@@ -82,20 +85,18 @@
 
 A Velocity da Sprint 2 foi calculada com base na soma dos Story Points concluídos, considerando a Matriz de Complexidade adotada pelo projeto (níveis de 1 a 5). Foram contabilizadas apenas as atividades que atingiram integralmente o *Definition of Done (DoD)*.
 
-* **Sprint 2:** **59 pontos**
-
+* **Sprint 2:** **63 pontos**
   * **31 pts** provenientes de **11 User Stories** voltadas para funcionalidades de valor ao usuário.
-  * **28 pts** relacionados a **tasks técnicas, documentação, gestão e refinamentos de interface**.
+  * **32 pts** relacionados a **tasks técnicas, documentação, gestão e refinamentos de interface**.
 
 ### 📌 Distribuição do esforço
 
 A Sprint concentrou atividades de maior complexidade técnica e estratégica, incluindo:
-
 * Implementação de autenticação em dois fatores (2FA);
 * Desenvolvimento de filtros por geolocalização;
 * Melhorias de UI/UX;
-* Refinamento de critérios de aceite;
-* Preparação da apresentação e defesa da Sprint.
+* Refinamento de critérios de aceite com escrita em BDD;
+* Preparação da documentação técnica e apresentação para a Defesa.
 
 Diferentemente da Sprint anterior, houve maior equilíbrio entre desenvolvimento funcional e atividades de qualidade e processo.
 
@@ -103,14 +104,16 @@ Diferentemente da Sprint anterior, houve maior equilíbrio entre desenvolvimento
 
 ## 2️⃣ Comparação entre Sprint 1 e Sprint 2
 
+
+
 | Sprint       | Velocity | Foco Principal                                                   |
 | :----------- | :------: | :--------------------------------------------------------------- |
 | **Sprint 1** |  33 pts  | Estruturação inicial, documentação e funcionalidades básicas     |
-| **Sprint 2** |  XX pts  | Funcionalidades avançadas, segurança, UX e refinamentos técnicos |
+| **Sprint 2** |  63 pts  | Funcionalidades avançadas, segurança, UX e refinamentos técnicos |
 
 ### 📈 Evolução Observada
 
-Houve um aumento significativo da Velocity, passando de **33 para XX pontos**, representando um crescimento aproximado de **XX.X%**.
+Houve um aumento significativo da Velocity, passando de **33 para 63 pontos**, representando um crescimento aproximado de **90.9%**.
 
 ### 📌 Motivos para o aumento da produtividade
 
@@ -130,13 +133,12 @@ Além disso, a equipe conseguiu reduzir retrabalho e aumentar a eficiência na e
 
 * **Evolução técnica do time:** A equipe demonstrou maior maturidade na implementação de funcionalidades complexas.
 * **Melhoria no planejamento:** Houve melhor alinhamento entre capacidade produtiva e quantidade de tarefas planejadas.
-* **Refinamento contínuo:** As atividades de UX e critérios de aceite contribuíram para entregas mais consistentes.
+* **Refinamento contínuo:** As atividades de UX e critérios de aceite em BDD contribuíram para entregas mais consistentes.
 * **Maior equilíbrio do Sprint Backlog:** A Sprint apresentou uma distribuição mais saudável entre desenvolvimento, testes, documentação e gestão.
 
 ### ⚠️ Desafios Encontrados
 
 Apesar do aumento da produtividade, algumas dificuldades ainda impactaram o desenvolvimento:
-
 * Funcionalidades de segurança e geolocalização exigiram tempo adicional de estudo e integração;
 * Algumas tasks de refinamento consumiram mais esforço do que o inicialmente previsto;
 * O aumento da complexidade técnica elevou a necessidade de validações e testes.
@@ -147,11 +149,13 @@ Mesmo assim, o grupo conseguiu manter a Sprint estável e concluir as entregas p
 
 ## 4️⃣ Indicadores da Sprint 2
 
+
+
 | Indicador               |                 Resultado                 |
 | :---------------------- | :---------------------------------------: |
 | User Stories concluídas |                     11                    |
-| Tasks concluídas        |                     9                     |
-| Velocity Total          |                   59 pts                  |
+| Tasks concluídas        |                     11                    |
+| Velocity Total          |                   63 pts                  |
 | Média de complexidade   |                    Alta                   |
 | Foco predominante       | Segurança, UX e funcionalidades avançadas |
 | Critério de validação   |          Definition of Done (DoD)         |
@@ -161,19 +165,15 @@ Mesmo assim, o grupo conseguiu manter a Sprint estável e concluir as entregas p
 ## 5️⃣ Ações de Melhoria para Próximas Sprints
 
 ### 🔹 Planejamento mais preciso
-
 Continuar utilizando a média de Velocity das Sprints anteriores para evitar sobrecarga de tarefas.
 
 ### 🔹 Quebra de funcionalidades complexas
-
 Tasks classificadas como níveis 4 e 5 deverão ser subdivididas em etapas menores, facilitando acompanhamento e validação.
 
 ### 🔹 Fortalecimento do Grooming
-
 Realizar refinamentos técnicos mais detalhados antes do início da Sprint para reduzir incertezas de estimativa.
 
 ### 🔹 Ampliação dos testes
-
 Expandir testes funcionais e de usabilidade durante o desenvolvimento para minimizar retrabalho ao final da Sprint.
 
 ---
@@ -183,3 +183,4 @@ Expandir testes funcionais e de usabilidade durante o desenvolvimento para minim
 A Sprint 2 apresentou uma evolução significativa em relação à Sprint 1, tanto em produtividade quanto em maturidade organizacional e técnica. O aumento da Velocity demonstra melhor adaptação da equipe ao processo ágil, além de maior eficiência no desenvolvimento e refinamento das entregas.
 
 Mesmo com desafios relacionados à complexidade técnica das funcionalidades implementadas, a equipe conseguiu manter a qualidade das entregas e cumprir os critérios definidos pelo DoD, consolidando uma Sprint mais robusta e equilibrada.
+
