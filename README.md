@@ -1,5 +1,5 @@
 ## UNIVERSIDADE CATÓLICA DE PERNAMBUCO
-> Curso - Ciências da Computação
+> Curso - Ciência da Computação
 
 > 💻 processos e requisistos de software 
 
