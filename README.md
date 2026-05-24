@@ -8,13 +8,13 @@
 # 📚 LOCUS
 ### Plataforma colaborativa de sebos e troca de livros
 
-## 🏷️ DADOS DOS DISCENTES
-| MATRÍCULA | NOME E SOBRENOME | PERFIS |
-| :--- | :--- | :--- |
-| **00000859509** | Amanda Aziz  | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
-| **RA** | Roberto Campos | [robertocamposf](https://github.com/robertocamposf) |
-| **00000857557** | Nina Albuquerque | [ninalbq](https://github.com/ninalbq) |
-| **RA** | João Carlos  | [ joao-carlos-pires ](https://github.com/joao-carlos-pires) |
+## 🏷️ DADOS DOS COLABORADORES
+| NOME E SOBRENOME | PERFIS |
+| :--- | :--- |
+| Amanda Aziz  | [Amanda-Aziz](https://github.com/Amanda-Aziz) |
+| Roberto Campos | [robertocamposf](https://github.com/robertocamposf) |
+| Nina Albuquerque | [ninalbq](https://github.com/ninalbq) |
+| João Carlos  | [ joao-carlos-pires ](https://github.com/joao-carlos-pires) |
 
 ---
 
