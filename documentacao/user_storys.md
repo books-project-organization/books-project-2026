@@ -8,6 +8,14 @@ A priorização foi definida através da metodologia MoSCoW.
 🟡 Should Have (Deveria ter)
 🟢 Could Have (Poderia ter)
 
+# Utilizamos o método MoSCoW para priorização.
+Must Have (Prioridade Máxima): Funcionalidades de busca, cadastro de estabelecimentos e doação. São o MVP (Produto Mínimo Viável), pois resolvem o problema central da conexão entre quem tem o livro e quem precisa.
+
+Should/Could Have: Funcionalidades de comparação e nichos (ONGs/Clubes), que agregam valor, mas dependem de uma base de dados já populada.
+
+Won't Have: Filtros de raridade ou curadoria histórica, pois fogem do foco inicial de acessibilidade e impacto social básico. 
+
+
 ---
 
 ## US01 - Opções de Troca e Doação
